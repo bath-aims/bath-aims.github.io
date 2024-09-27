@@ -2,7 +2,7 @@
 layout: single
 sidebar: 
   nav: "events"
-title: Bath Numerical Analysis seminar - upcoming
+title: Bath Applied and Interdisciplinary Mathematics Seminar - upcoming
 permalink: /events/current_seminars.html
 classes: wide
 ---

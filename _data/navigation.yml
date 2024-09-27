@@ -25,18 +25,22 @@ research:
   - title: Research
     url: /research/
     children:
-      - title: "Differential equations"
-        url: /research/diffeq.html
-      - title: "High-performance computing"
-        url: /research/hpc.html
-      - title: "Inverse problems"
-        url: /research/ip.html
-      - title: "Linear algebra"
-        url: /research/nla.html
-      - title: "Machine learning"
-        url: /research/ml.html
-      - title: "Uncertainty"
-        url: /research/uq.html
+      - title: "Analysis of PDEs"
+        url: /research/analysis.html
+      - title: "Asymptotic Analysis"
+        url: /research/asymptotics.html
+      - title: "Calculus of Variations"
+        url: /research/calcvar.html
+      - title: "Dynamical Systems"
+        url: /research/ds.html
+      - title: "Fluid Mechanics"
+        url: /research/fluids.html
+      - title: "Mathematical Biology"
+        url: /research/mathbio.html
+      - title: "Mathematical Modelling"
+        url: /research/modelling.html
+      - title: "Numerical Analysis"
+        url: /research/na.html
   - title: Partners
     url: /research/partners.html
     children:
@@ -47,34 +51,12 @@ research:
 #####################
 # Sidebar
 teaching:
-  - title: Year Two
-    children:
-      - title: Numerical Analysis
-        url: /teaching/MA22037.html
-      - title: Machine Learning I
-        url: /teaching/MA22018.html
-  - title: Year Three
-    children: 
-      - title: Numerical Linear Algebra
-        url: /teaching/MA30051.html
-      - title: Numerical Solution of Elliptic PDEs
-        url: /teaching/MA30170.html
-      - title: Machine Learning II
-        url: /teaching/MA30279.html
-  - title: Year Four
-    children:
-      - title: Numerical Optimisation and Large-Scale Problems
-        url: /teaching/MA40050.html
-      - title: Numerical Solution of Evolutionary Equations
-        url: /teaching/MA40171.html
-      - title: Scientific Computing
-        url: /teaching/MA40177.html
-      - title: Applied Machine Learning
-        url: /teaching/MA50290.html
-      - title: Mathematics of Machine Learning  
-        url: /teaching/MA50263.html
-      - title: Advanced topics in machine learning and mathematical modelling  
-        url: /teaching/MA50303.html
+  # - title: Year Two
+  #   children:
+  #     - title: Numerical Analysis
+  #       url: /teaching/MA22037.html
+  #     - title: Machine Learning I
+  #       url: /teaching/MA22018.html
 ####################### 
 # Sidebar
 people:
@@ -85,10 +67,8 @@ events:
     url: /events/current_seminars.html
   - title: "Recent"
     url: /events/index.html
-  - title: "All NA seminars"
+  - title: "All AIMS seminars"
     url: /events/all_seminars.html
-  - title: "Bath RAL"
-    url: /events/bath_ral.html
   - title: "All"
     url: /events/all.html
 # 

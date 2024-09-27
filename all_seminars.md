@@ -4,8 +4,10 @@ sidebar:
   nav: "events"
 permalink: /events/all_seminars.html
 ---
-<h1>Bath Numerical Analysis Seminar</h1>
-  <p> This seminar series has been running continuously since 1986 and features a range of invited talks from distinguished visitors as well as internal talks by staff and students of the Department of Mathematical Sciences and other departments at the University of Bath.</p>
+<h1>Bath Applied and Interdisciplinary Mathematics Seminar</h1>
+  <p> We hold weekly seminars and one-off events to stimulate research at the interface of mathematics, engineering, physics, biology and other disciplines. The AIMS seminars are hosted by the Department of Mathematics and encompasses many of the applied and interdisciplinary research groups at Bath. This includes the Centre for Nonlinear Mechanics, Centre for Mathematical Biology, Institute for Mathematical Innovation, and so forth. But we also host plenty of talks of interest to Analysts, Numerical Analysts, Engineers, Physicists, and so forth!
+
+AIMS Seminars are held weekly on Tuesdays and hosted by AIMS. All seminars are at 1.15pm in 4W 1.7 (The Wolfson Room), University of Bath.</p>
 
 {% assign sorted = site.categories["bnaseminar"]  | sort:"year"  %}
 
