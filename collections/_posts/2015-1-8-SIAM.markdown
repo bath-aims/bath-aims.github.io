@@ -1,6 +1,0 @@
----
-outline: single
-title: "SIAM UKIE/IMA  "
-excerpt: Annual Meeting
----
-{{page.excerpt}}

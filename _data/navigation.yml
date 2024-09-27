@@ -69,7 +69,6 @@ events:
     url: /events/index.html
   - title: "All AIMS seminars"
     url: /events/all_seminars.html
-  - title: "All"
-    url: /events/all.html
+
 # 
 # end of sidebars
