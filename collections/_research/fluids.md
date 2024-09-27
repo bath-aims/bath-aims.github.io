@@ -1,6 +1,6 @@
 ---
 title: Fluid mechanics
-code: fm
+code: fluids
 # feature_row:
 #   - image_path: "/assets/pics/helmholtz.jpg" 
 #     btn_label: "Scattering"

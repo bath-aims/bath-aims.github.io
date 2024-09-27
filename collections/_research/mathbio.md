@@ -1,6 +1,6 @@
 ---
 title: Mathematical biology
-code: mb
+code: mathbio
 # feature_row:
 #   - image_path: "/assets/pics/helmholtz.jpg" 
 #     btn_label: "Scattering"
