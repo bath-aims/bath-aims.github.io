@@ -4,8 +4,7 @@
 
 <ul>
   <li>Send a message to sympa@lists.bath.ac.uk from the address you want to subscribe to the list.</li>
-  <li>In the subject line of your message, type in:<\li>
-    subscribe aims_seminars YourFirstName YourLastName
+  <li>In the subject line of your message, type in: <kbd>subscribe aims_seminars YourFirstName YourLastName</kbd> <\li>
   <li>Leave the message body blank<\li>
 <\ul>
 
