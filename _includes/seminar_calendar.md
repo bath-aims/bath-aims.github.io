@@ -4,9 +4,9 @@
 
 <ul>
   <li>Send a message to sympa@lists.bath.ac.uk from the address you want to subscribe to the list.</li>
-  <li>In the subject line of your message, type in: <kbd>subscribe aims_seminars YourFirstName YourLastName</kbd> <\li>
-  <li>Leave the message body blank<\li>
-<\ul>
+  <li>In the subject line of your message, type in: <kbd>subscribe aims_seminars YourFirstName YourLastName</kbd> </li>
+  <li>Leave the message body blank</li>
+</ul>
 
 If you encounter an issue or would like help, please mail the main organiser at p.trinh[at]bath.ac.uk and I can assist!
 
