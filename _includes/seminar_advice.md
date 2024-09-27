@@ -2,7 +2,7 @@
 <h4>Tips for new students on giving talks
 </h4>
 <p>
-Since the audience of the NA seminar contains both PhD students and staff with quite wide interests and backgrounds, the following are some guidelines/hints to make sure people don't give you evil looks at lunch afterwards. </p>
+Since the audience of the AIMS seminar contains both PhD students and staff with quite wide interests and backgrounds, the following are some guidelines/hints to make sure people don't give you evil looks at lunch afterwards. </p>
 <p>
 Before too much time passes in your talk, ideally the audience should know the answers to the following 4 questions:
 </p>
