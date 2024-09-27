@@ -1,105 +1,56 @@
-- date: 27 Sep 2024
-  speaker: Katie MacKenzie (Strathclyde)
-  url: https://pureportal.strath.ac.uk/en/persons/katherine-mackenzie
+- date: 8 Oct 2024
+  speaker: Nabil Fadai (Nottingham)
+  url: https://nabiltfadai.wixsite.com/website
   zoom: 1
-  title: Using Firedrake to develop Machine Learning models for atmospheric fluid dynamics
-  abstract: Recently, there has been a lot of interest in machine learning based surrogate models for atmospheric fluid dynamics. Successful approaches such as GraphCast [Lam et al, Science, 382(6677), 2023] use an encoder-processor-decoder architecture where the processor describes the propagation of information on a Graph Neural Network (GNN) via message passing. Since the dynamics is approximated on a low-dimensional space, these models are much faster than traditional methods that solve the underlying PDE numerically on a fine mesh. We explore a variation of this architecture where the processor is replaced by the solution of a time-dependent differential equation in a low-dimensional latent space. Compared to GNNs, this allows the application of standard techniques from numerical analysis, thus potentially improving stability and interpretability for example by exactly enforcing conservation laws. To implement this, we use the recent Firedrake/PyTorch interface [Bouziani & Ham, 2023] to train and solve time-dependent PDE surrogate models on the sphere. The encoder in our model combines the interpolation of the initial condition to the latent space on a vertex-only-mesh with a learnable embedding; the decoder has a similar structure based on the adjoint of the interpolation. Our model is trained on numerical solutions of PDE which have been calculated a-priori using Firedrake. The aim of our work is to combine the reliability of Finite Elements with the efficiency of Neural Networks surrogates to produce a competitive model which has the potential to be applied to time-critical applications in weather forecasting.
+  title: Stochastic agent-based models in mathematical biology
+  abstract: In the last decade, there has been a movement to describe biological and social systems via agent-based models, which track individual agents (organisms, cells, people) and their environment through a set of deterministic and probabilistic rules. In this talk, we examine how local individual-based mechanisms translate into global population dynamics. In particular, we will consider the Allee effect in population models, which were originally proposed to describe population dynamics that cannot be explained by exponential and logistic growth models. Using stochastic individual-based models, we can obtain a modelling framework that translates particular global Allee effects to specific individual-based mechanisms. This modelling framework is then extended to applications in the social sciences, including the modelling of sports riots and panic-buying.
 
-- date: 27 Sep 2024
-  speaker: James Foster (Bath)
-  url: https://people.bath.ac.uk/jmf68/
+- date: 15 Oct 2024
+  speaker: Jeremy Budd (Manchester)
+  url: https://jeremybudd.com/
   zoom: 1
-  title: On the convergence of adaptive approximations for SDEs
-  abstract: When using ordinary differential equations (ODEs), numerical solutions are often approximated and propagated in time via discrete step sizes. For a large variety of ODE problems, performance can be improved by making these step sizes "adaptive" – that is, adaptively changed based on the state of system. However, for stochastic differential equations (SDEs), adaptive numerical methods can be difficult to study and even fail to converge due to the rough nature of Brownian motion. In this talk, we will show that convergence does indeed occur, provided the underlying Brownian motion is discretized in an adaptive but "martingale-like" fashion. Whilst this prevents adaptive steps from skipping over time points (which we show can prevent convergence), we believe our convergence theory is the first that is applicable to standard SDE solvers. We will discuss the key ingredients in this analysis – including martingale convergence, rough path theory and the approximation of Brownian motion by polynomials. Based on our theory, we also modify an adaptive "Proportional-Integral" (PI) step size controller for use in the SDE setting. Unlike those used for ODEs, this new PI controller is designed to revisit time points where the Brownian motion was previously sampled. Finally, we conclude with a numerical experiment showing that SDE solvers can achieve an order of magnitude more accuracy with adaptive step sizes than with constant step sizes. (joint work with Andraž Jelinčič)
+  title: Graph-based learning and learned adversarial regularisation
+  abstract: TBD
 
+- date: 22 Oct 2024
+  speaker: Geoff Vasil (Edinburgh)
+  url: https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=1066
+  zoom: 1
+  title: TBD
+  abstract: TBD
 
-- date: 4 Oct 2024
-  speaker: Malena Sabaté Landman (Oxford)
-  url: https://sites.google.com/view/malena-sabate-landman
+- date: 29 Oct 2024
+  speaker: Kasia Warburton (Cambridge)
+  url: https://scholar.google.com/citations?user=qvbloLQAAAAJ&hl=en
   zoom: 1
-  title: Inner product free Krylov methods for large-scale inverse problems
-  abstract: Inverse problems focus on reconstructing hidden objects from indirect, often noisy measurements, and are prevalent in numerous scientific and engineering disciplines. These reconstructions are typically highly sensitive to perturbations such as measurement errors, making regularization essential. In this presentation, I will discuss Krylov subspace methods that avoid inner-product computations and are specifically designed to efficiently address large-scale linear inverse problems.  In particular, I will highlight their regularization capabilities and present computational results that demonstrate the effectiveness of these methods in different scenarios.
+  title: Water pressure evolution beneath glaciers
+  abstract: TBD
 
-- date: 11 Oct 2024
-  speaker: Subhayan Roy Moulik (Cambridge)
-  url: https://www.maths.cam.ac.uk/person/sr2068
+- date: 5 Nov 2024
+  speaker: Keaton Burns (MIT)
+  url: https://keaton-burns.com/
   zoom: 1
-  title: Quantum algorithms for sampling eigenstates with Spectral Sieve
-  abstract: TBC
+  title: TBD
+  abstract: TBD
 
-- date: 18 Oct 2024
-  speaker: Johannes Hertrich (UCL)
-  url: https://johertrich.github.io/
+- date: 12 Nov 2024
+  speaker: Lois Baker (Edinburgh)
+  url: https://loisbaker.github.io/
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: TBD
+  abstract: TBD
 
-- date: 25 Oct 2024
-  speaker: Xiaocheng Shang (Birmingham)
-  url: https://sites.google.com/site/xiaochengshang/
+- date: 19 Nov 2024
+  speaker: Alexander Mietke (Oxford)
+  url: https://www.physics.ox.ac.uk/our-people/mietke
   zoom: 1
-  title: TBC
-  abstract: TBC
-  
-- date: 1 Nov 2024
-  speaker: Francesco Tudisco (Edinburgh)
-  url: https://ftudisco.gitlab.io/post/
-  zoom: 1
-  title: TBC
-  abstract: TBC
+  title: TBD
+  abstract: TBD
 
-- date: 8 Nov 2024
-  speaker: SAMBa personal research project (PRP) talks
-  url: 
+- date: 26 Nov 2024
+  speaker: Angela Busse (Glasgow)
+  url: https://www.gla.ac.uk/schools/engineering/staff/angelabusse/
   zoom: 1
-  title: TBC
-  abstract: TBC
- 
-- date: 15 Nov 2024
-  speaker: Megan Griffin-Pickering (UCL)
-  url: https://griffinpickering.wordpress.com
-  zoom: 1
-  title: TBC
-  abstract: TBC
-  
-- date: 22 Nov 2024
-  speaker: Abdalaziz Hamdan (Bath)
-  url: https://www.researchgate.net/profile/Abdalaziz-Hamdan
-  zoom: 1
-  title: TBC
-  abstract: TBC
+  title: TBD
+  abstract: TBD
 
-- date: 22 Nov 2024
-  speaker: Jenny Power (Bath)
-  url: https://jenny-power.github.io/
-  zoom: 1
-  title: TBC
-  abstract: TBC
-
-- date: 29 Nov 2024
-  speaker: TBC
-  url: 
-  zoom: 1
-  title: TBC
-  abstract: TBC
-  
-- date: 6 Dec 2024
-  speaker: MMath Year Long Project (YLP) talks
-  url: 
-  zoom: 1
-  title: TBC
-  abstract: TBC
-  
-- date: 13 Dec 2024
-  speaker: Allen Paul (Bath)
-  url: https://samba.ac.uk/student/allen-paul/
-  zoom: 1
-  title: TBC
-  abstract: TBC
-
-- date: 13 Dec 2024
-  speaker: Hok Shing Wong (Bath)
-  url: https://maths4dl.ac.uk/team-member/hok-shing-wong
-  zoom: 1
-  title: TBC
-  abstract: TBC
