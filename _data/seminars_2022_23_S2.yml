@@ -1,0 +1,71 @@
+- date: 10 Feb 2023
+  speaker: Matthias Sachs (Birmingham)
+  url: https://www.birmingham.ac.uk/staff/profiles/maths/sachs-matthias.aspx
+  zoom: 1
+  title: "Learning of tensor-valued quantities with the atomic cluster expansion - from (hyper-)active learning of interatomic forcefields to tensor-valued atomic cluster expansion for learning of dynamical systems"
+  abstract: TBC
+
+  
+- date: 17 Feb 2023
+  speaker: Changpeng Shao (Bristol)
+  url: https://research-information.bris.ac.uk/en/persons/changpeng-shao
+  zoom: 1
+  title: Quantum algorithms for linear regression
+  abstract: Quantum computers could solve linear algebra problems much faster than classical computers. In this talk, I will talk about some recent quantum algorithms for linear regression with the goal of outputting a vector solution. First, I will introduce a quantum algorithm that accelerates the technique of leverage score sampling (which is a useful technique in randomised numerical linear algebra). Then I will show how to use it to propose efficient quantum algorithms for solving linear regressions. The talk is mainly based on arXiv 2301.06107.
+
+
+- date: 24 Feb 2023
+  speaker: Rihuan Ke (Bristol)
+  url: https://research-information.bris.ac.uk/en/persons/rihuan-ke
+  zoom: 1
+  title: Hybrid learning for label-efficient solvers for inverse problems and beyond
+  abstract: Recent deep learning techniques enable the learning of high-quality inverse problem solvers from data. These techniques handle the ill-posedness of the problems with data, by looking at the examples, and do not require explicit regularisation modelling. Typically, a large set of paired measurements and ground truth solutions is used in order to learn a well-performing model. The learning task can be challenging without such a high-quality dataset, and it is an ill-posed problem itself. In this talk, I will introduce some hybrid learning methods for solving inverse problems in a label-efficient manner. 
+  
+- date: 3 Mar 2023
+  speaker: CANCELLED
+  url: TBC
+  zoom: 1
+  title: TBC
+  abstract: TBC
+  
+- date: 10 Mar 2023
+  speaker: Francisco de Lima Andrade (ENS Paris)
+  url: TBC
+  zoom: 1
+  title: Distributed Banach-Picard Iteration for Distributed Inference - Theory and Applications
+  abstract: Many inference problems can be mathematically formulated as finding a fixed point of a contractive operator/map. In modern distributed scenarios (e.g., distributed machine learning or sensor networks), this map can be naturally written as the average of individual maps held locally and privately (i.e., the agents don't want to share their local data with the others) by a set of agents linked by a (maybe sparse) communication network. Starting with the classical Banach-Picard iteration (BPI), which is is a widely used natural choice to find fixed points of locally contractive maps, this talk shows how to extend the BPI to these distributed settings. We do not assume that the locally contractive map comes from an underlying optimization problem, which precludes exploiting strong global properties such as convexity, coercivity, or Lipschitzianity. Yet, we present a distributed algorithm (called distributed Banach-Picard iteration DBPI) that keeps the linear convergence rate of the standard BPI for the average locally contractive map. As an application, we derive and prove linear convergence of two distributed algorithms for two classical data analysis problems - the expectation-maximization algorithm for parameter estimation from noisy and faulty distributed sensors; principal component analysis with distributed data (equivalently finding the top m eigenvectors of a positive semidefinite matrix, which is the average of local matrices held by the network agents).   
+
+- date: 17 Mar 2023
+  speaker: Eike Mueller (Bath)
+  url: https://people.bath.ac.uk/em459/
+  zoom: 1
+  title: Equivariant and invariant neural networks
+  abstract: Equivariance and invariance play a very important role in physics since they strongly constrain the dynamics of a system. For example, Einstein’s famous theory of Special Relativity and Maxwell’s electrodynamics follow naturally if we assume that the equations of motion are equivariant under Lorentz transformations. Recently, there has been a lot of work on constructing equivariant neural networks. A well-known example are Convolutional Neural Networks (CNNs) for image classification, in which the output is invariant under translations - the network doesn’t care whether a cat appears in the upper left or lower right corner of an image. Here translational invariance provides a strong prior, which allows the network to generalise from limited training data. Equivariance under other symmetry groups such as rotations can be incorporated into the architecture of neural networks in similar ways. In this session I will try to summarise some of the main ideas, based on some papers I came across recently. I’m by no means an expert in this area, so this will be a very informal session, hopefully with lively and interesting discussions.
+  
+- date: 24 Mar 2023
+  speaker: Philip J Herbert (Heriot-Watt)
+  url: TBC
+  zoom: 1
+  title: Shape optimisation with Lipschitz functions
+  abstract: In this talk, we discuss a novel method in PDE constrained shape optimisation.  We begin by introducing the concept of PDE constrained shape optimisation.  While it is known that many shape optimisation problems have a solution, their approximation in a meaningful way is non-trivial.  To find a minimiser, it is typical to use first order methods.  The novel method we propose is to deform the shape with fields which are a direction of steepest descent in the topology of $W^{1,\infty}$.  We present an analysis of this in a discrete setting along with the existence of directions of steepest descent.  Several numerical experiments will be considered which compare a classical Hilbertian approach to this novel approach.
+  
+- date: 31 Mar 2023
+  speaker: Arieh Iserles (Cambridge)
+  url: http://www.damtp.cam.ac.uk/user/ai/Arieh_Iserles/Arieh_Iserles.html
+  zoom: 1
+  title: An overarching framework for spectral methods and dispersive equations
+  abstract: Many invariants of time-evolving PDEs, e.g. mass and some Hamiltonians, can be formulated as a bilinear form. In this talk we are concerned with formal orthogonal systems on the real line (and, by tensorisation, in $\mathbb{R}^d$) with respect to bilinear forms and with a tridiagonal differentiation matrix. The theory is virtually complete for $L_2$ and Sobolev inner products - using a Fourier transform we show that such systems are in a one-to-one relationship with determinate Borel measures and that their closure is a Paley–Wiener space. We provide several examples, commencing from the familiar Hermite functions. We also characterise all such systems that can be computed fast – for $L_2$ orthogonality using Fast Fourier/Cosine/Sine Transform, for Sobolev orthogonality the above in tandem with a narrow-banded matrix of connection coefficients. We conclude with preliminary results on systems that are orthogonal with respect to a bilinear form generated by the Hamiltonian of a linear Schrödinger equation. This is joint work with Marcus Webb.
+
+- date: 21 Apr 2023
+  speaker: Kostas Papafitsoros (QMUL)
+  url: https://www.qmul.ac.uk/maths/profiles/papafitsorosk.html
+  zoom: 1
+  title: Learning data-driven priors for image reconstruction- From bilevel optimisation to neural network-based unrolled schemes
+  abstract: Combining classical model-based variational methods for image reconstruction with deep learning techniques has attracted a significant amount of attention during the last years. The aim is to combine the interpretability and the reconstruction guarantees of a model-based method with the flexibility and the state-of-the-art reconstruction performance that the deep neural networks are capable of achieving. We introduce a general novel image reconstruction approach that achieves such a combination which we motivate by recent developments in deeply learned algorithm unrolling and data-driven regularisation as well as by bilevel optimisation schemes for regularisation parameter estimation.  We consider a network consisting of two parts - The first part uses a highly expressive deep convolutional neural network (CNN) to estimate a spatially varying (and temporally varying for dynamic problems) regularisation parameter for a classical variational problem (e.g. Total Variation). The resulting parameter is fed to the second sub-network which unrolls a finite number of iterations of a method which solves the variational problem (e.g. PDHG). The overall network is then trained end-to-end in a supervised fashion. This results to an entirely interpretable algorithm since the “black-box” nature of the CNN is placed entirely on the regularisation parameter and not to the image itself. We prove consistency of the unrolled scheme by showing that, as the number of unrolled iterations tends to infinity, the unrolled energy functional used for the supervised learning $Gamma$-converges  to the corresponding functional that incorporates the exact solution map of the TV-minimization problem. We also provide a series of numerical examples that show the applicability of our approach - dynamic MRI reconstruction, quantitative MRI reconstruction, low-dose CT and dynamic image denoising.
+
+- date: 28 Apr 2023
+  speaker: Jemima M. Tabeart (Oxford)
+  url: https://jemimat.github.io/
+  zoom: 1
+  title: Stein-based Preconditioners for Weak-constraint 4D-var
+  abstract: Algorithms for data assimilation try to predict the most likely state of a dynamical system by combining information from observations and prior models. Variational approaches, such as the weak-constraint four-dimensional variational data assimilation formulation considered in this paper, can ultimately be interpreted as a minimization problem. One of the main challenges of such a formulation is the solution of large linear systems of equations which arise within the inner linear step of the adopted nonlinear solver. In this talk we develop new structure-exploiting preconditioners for the saddle point formulation of this problem. These novel, efficient preconditioning operators involve the solution of certain Stein matrix equations. In addition to achieving better computational performance, the latter machinery allows us to derive tighter bounds for the eigenvalue distribution of the preconditioned linear system for certain problem settings. I will present theoretical results and our efficient implementation will be demonstrated via a panel of diverse numerical results. This is joint work with Davide Palitta. 

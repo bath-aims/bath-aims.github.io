@@ -1,0 +1,83 @@
+- date: 7 Oct 2022
+  speaker: Andrea Sebastiani (University of Bologna, Italy)
+  url: https://www.unibo.it/sitoweb/andrea.sebastiani3/en
+  zoom: 1
+  title: Deep Image Prior optimization models with automatic regularization
+  abstract: 'Deep Image Prior (DIP) is one of the most useful unsupervised deep learning methods for imaging inverse problems. This framework uses a Convolutional Neural Network (CNN) as implicit prior to model and represent all the natural images. Combined with classical or novel regularizers, DIP has been shown to be very powerful. However, all the regularized methods, proposed up to now, require a computational expensive estimation of the regularization parameter, to balance the contribute of the regularizer.
+In order to overcome this drawback, the original model can be reformulated as an unconstrained or a constrained optimization problem. In particular, the unconstrained model combines DIP with a space-variant Total Variation regularizer with an automatic estimation of the local regularization parameters. Conversely, the constrained formulation is derived from the Morozov’s discrepancy principle, considering an estimate of the noise level in the acquired image. This approach completely avoids the choice of a regularization parameter and it also allows to consider di erent regularizers by making the framework very general and versatile.
+Both the arising minimization problems are solved using proximal gradient descent-ascent (PGDA) algorithms and under suitable assumptions it is possible to provide convergence results.'
+  
+- date: 14 Oct 2022
+  speaker: Iain Smears (UCL)
+  url: http://www.homepages.ucl.ac.uk/~ucahism/
+  zoom: 1
+  title: Numerical methods for fully nonlinear PDE
+  abstract: "Joint work with Max Jensen, Endre Süli, Ellya Kawecki and Yohance Osborne 
+
+ Second-order fully nonlinear PDE feature nonlinearities that include the second partial derivatives of the unknown solution. Important examples of fully nonlinear PDE include the Hamilton—Jacobi—Bellman equation, the Monge—Ampere equation and Isaacs’ equation, which arise in a large range of application areas, from optimal control, optimal transport, stochastic games, and many more. The nonlinearity makes the analysis and numerical treatment of these problems particularly challenging, as there is no possibility of a standard weak formulation based on integration by parts of the second-order terms. In this talk, we will give a brief overview of the state of art of numerical methods in this area, before focusing on the recent proof of convergence of adaptive finite element methods for the class of elliptic Isaacs equations with Cordes coefficients. " 
+
+
+- date: 21 Oct 2022
+  speaker: James Foster (Bath)
+  url: https://researchportal.bath.ac.uk/en/persons/james-foster
+  zoom: 1
+  title: High order splitting methods for stochastic differential equations
+  abstract: "In this talk, we will discuss how ideas from rough path theory can be leveraged to develop high order numerical methods for SDEs. To motivate our approach, we consider what happens when the Brownian motion driving an SDE is replaced by a piecewise linear path. We show that this procedure transforms the SDE into a sequence of ODEs – which can then be discretized using an appropriate ODE solver. Moreover, to achieve a high accuracy, we construct these piecewise linear paths to match certain features of the Brownian motion.
+
+At the same time, the ODE sequences obtained from this path-based approach can be interpreted as a splitting method, which neatly connects our work to the existing literature. For example, we show that the well-known Strang splitting falls under our framework and can be modified to give an improved convergence rate. We conclude the talk with several examples, which demonstrate the flexibility and convergence properties of our methodology."
+
+
+  
+- date: 28 Oct 2022
+  speaker: Martin Averseng (Bath)
+  url: TBC
+  zoom: 1
+  title: Singular geometries, DtN map and preconditioning
+  abstract: "In boundary value problems, approximations of the Dirichlet to Neumann (DtN) map appear in many applications, such as domain decomposition methods, absorbing boundary conditions and preconditioning for integral equations. On smooth boundaries, a popular method is to approximate the DtN map by the square-root of a differential operator involving the Laplace-Beltrami operator, and local curvature terms. Finding suitable formulas in the context of singular boundaries (e.g. polygonal/ polyhedral, or screens) is an active area of research. In this talk, we focus on a recent approach in which the central role is played by a weighted Laplace-Beltrami operator. Applications in 2D and 3D to the preconditioning of integral equations for Laplace and Helmholtz boundary value problems will also be presented."
+  
+- date: 4 Nov 2022
+  speaker: Jennifer Ryan (KTH, Stockholm, Sweden)
+  url: TBC
+  zoom: 1
+  title: Designing effective, efficient, and flexible convolution kernels
+  abstract: "Convolution kernels are powerful tools that have proven useful in multiple areas, such as data compression, shock filtering, post-processing, and machine learning.  The popularity of this approach has given rise to the need for effective and efficient design of convolution kernels, suitable for a variety of applications. In this talk, we focus on the design of convolution kernels for efficiency, effectiveness, and flexibility.  Well-designed convolution kernels, such as the one that gives rise to Smoothness-Increasing Accuracy-Conserving (SIAC) post-processing filters, can be used to extract hidden information in certain numerical simulations, creating even more accurate representations of the data. They can be adapted for boundaries, unstructured grids, and non-smooth solutions. Furthermore, such well-designed convolution kernels have the potential to accurately capture multi-scale physics, and are flexible enough to combine simulation information with experimental data.   This presentation will focus on identifying the essential properties in convolution kernel design, what information it is exploiting and the possibilities in applications."
+  
+- date: 11 Nov 2022
+  speaker: David Hewett (UCL)
+  url: https://www.ucl.ac.uk/~ucahdhe/
+  zoom: 1
+  title: A Hausdorff measure boundary element method for acoustic scattering by fractal screens 
+  abstract: 'We introduce and analyse a novel discretization method for acoustic scattering by fractal screens. In contrast to previous studies, in which a conventional boundary element method (BEM) was applied on a “pre-fractal” approximation of the fractal, here we work with BEM basis functions supported on the fractal itself, integrating with respect to Hausdorff measure rather than the conventional surface (Lebesgue) measure. Using approximation results in appropriate Besov spaces on the fractal we prove convergence of our BEM, and obtain convergence rates under natural solution regularity assumptions. We also detail a strategy for the numerical evaluation of the required Hausdorff measure integrals, accompanied by a fully discrete convergence analysis.'
+  
+- date: 18 Nov 2022
+  speaker: Oliver Townsend (Bath)
+  url: https://researchportal.bath.ac.uk/en/persons/oliver-townsend
+  zoom: 1
+  title: Undersampling raster scans in spectromicroscopy for a reduced dose and faster measurements
+  abstract: 'Combinations of spectroscopic analysis and microscopic techniques are used across many disciplines of scientific research, including material science, chemistry and biology. X-ray spectromicroscopy, in particular, is a powerful tool used for studying chemical state distributions at the micro and nano scales. With the beam fixed, a specimen is typically rastered through the probe with continuous motion and a range of multimodal data is collected at fixed time intervals. The application of this technique is limited in some areas due to: long scanning times to collect the data, either because of the area/volume under study or the compositional properties of the specimen; and material degradation due to the dose absorbed during the measurement. In this work, we propose a novel approach for reducing the dose and scanning times by undersampling the raster data. This is achieved by skipping rows within scans and reconstructing the x-ray spectromicroscopic measurements using low-rank matrix completion. The new method is robust and allows for 5 to 6-fold reduction in sampling. Experimental results obtained on real data are illustrated.'
+
+  
+- date: 25 Nov 2022
+  speaker: Kurusch Ebrahimi-Fard (NTNU Trondheim, Norway)
+  url: https://www.ntnu.edu/employees/kurusch.ebrahimi-fard
+  zoom: 1
+  title: On the discrete Magnus expansion
+  abstract: 'We will discuss a discrete analog of the Magnus expansion from the point of view of Lie algebras with additional structure (e.g., framed and post-Lie). If time permits, we will also discuss stochastic aspects. This is based on joint works with D. Manchon and F. Patras.'
+
+- date: 2 Dec 2022
+  speaker: Subhadip Mukherjee (Bath)
+  url: https://sites.google.com/view/subhadip-mukherjee/home?pli=1
+  zoom: 1
+  title: Data-Driven Mirror Descent with Input-Convex Neural Networks
+  abstract: 'Learning-to-optimize is an emerging framework that seeks to speed up the solution of certain optimization problems by leveraging training data. Learned optimization solvers have been shown to outperform classical optimization algorithms in terms of convergence speed, especially for convex problems. Many existing data-driven optimization methods are based on parameterizing the update step and learning the optimal parameters (typically scalars) from the available data. We propose a novel functional parameterization approach for learned convex optimization solvers based on the classical mirror descent (MD) algorithm. Specifically, we seek to learn the optimal Bregman distance in MD by modeling the underlying convex function using an input-convex neural network (ICNN). The parameters of the ICNN are learned by minimizing the target objective function evaluated at the MD iterate after a predetermined number of iterations. The inverse of the mirror map is modeled approximately using another neural network, as the exact inverse is intractable to compute. We derive convergence rate bounds for the proposed learned mirror descent (LMD) approach with an approximate inverse mirror map and perform an extensive numerical evaluation on various convex problems such as image inpainting, denoising, learning a two-class support vector machine (SVM) classifier and a multi-class linear classifier on fixed features.'
+
+- date: 9 Dec 2022
+  speaker: NA & DS  students
+  url: 
+  zoom: 1
+  title: "Year-long Projects  (12.15 to 2.05; click for running order)"
+  abstract: "Speakers:<br> 1.  Ben Bradshaw -  Optimization for Large-Scale Machine Learning Problems<br>2. Jasmine Donato - Imaginary time eigenvalue method<br>
+3. Charlotte Johns -  Machine learning and differential equations<br>
+4. Jasmine Lewis -  Treatment planning in radiotherapy<br>
+5. Benno Marstaller -  Deep learning and inverse problems<br>
+6. Nuala Pennycook -  Shape modelling with deep neural networks<br>"

@@ -1,0 +1,78 @@
+- date: 6 Oct 2023
+  speaker: Marco Fasondini (Leicester)
+  url: TBC
+  zoom: 1
+  title: Complex-plane singularity dynamics for blow up in a nonlinear heat equation - analysis and computation
+  abstract: Blow-up solutions to a heat equation with spatial periodicity and a quadratic nonlinearity are studied through asymptotic analyses and a variety of numerical methods. The focus is on the dynamics of the singularities in the complexified space domain. Blow up in finite time is caused by these singularities eventually reaching the real axis. The analysis provides a distinction between small and large nonlinear effects, as well as insight into the various time scales on which blow up is approached. It is shown that an ordinary differential equation with quadratic nonlinearity plays a central role in the asymptotic analysis. This equation is studied in detail, including its numerical computation on multiple Riemann sheets, and the far-field solutions are shown to be given at leading order by a Weierstrass elliptic function. This is joint work with J.R. King (Nottingham) and J.A.C Weideman (Stellenbosch).
+
+
+- date: 10 Oct 2023
+  speaker: Silvia Gazzola (Bath)
+  url: TBC
+  zoom: 1
+  title: (3.15pm, 4W 1.7, Ada Lovelace Day Talk) Solving inverse problems by (non-standard) Krylov methods
+  abstract: Inverse problems arise in a variety of scientific and engineering applications and, to meaningfully solve them, one should apply some kind of regularisation. This talk is about the so-called `hybrid projection methods', i.e., regularisation methods that combine iterative regularisation methods (such as Krylov subspace methods) and variational regularisation methods. We will survey some well-established hybrid projection methods based on some standard Krylov subspace methods (such as LSQR, LSMR, and GMRES) and standard Tikhonov regularisation. We will then present some novel hybrid projection methods that exploit inexact Krylov subspace methods to handle separable nonlinear inverse problems.
+
+
+- date: 13 Oct 2023
+  speaker: Ioannis Papadopoulos (Imperial)
+  url: https://www.imperial.ac.uk/people/ioannis.papadopoulos13
+  zoom: 1
+  title: A sparse hp-finite element method for the screened Poisson equation posed on disks, annuli and cylinders
+  abstract: We introduce a sparse and very high order hp-finite element method for the weak form of the screened Poisson equation.  The domain may be a disk, an annulus, or a cylinder. The cells of the mesh are an innermost disk (omitted if the domain is an annulus) and concentric annuli. We demonstrate the effectiveness of this method on PDEs with radial direction discontinuities in the coefficients and data. The discretization matrix is symmetric positive-definite. Moreover, the Fourier modes decouple, reducing a two-dimensional PDE solve to a series of one-dimensional solves that may be computed in parallel, scaling with linear complexity. We also utilize the ADI method of Fortunato and Townsend to apply the method to a 3D cylinder with a quasi-optimal complexity solve.
+
+- date: 20 Oct 2023
+  speaker: Seb Scott (Bath)
+  url: TBC
+  zoom: 1
+  title: On optimal regularisation parameters via bilevel learning
+  abstract: Variational regularisation is commonly used to solve linear inverse problems and involves augmenting a data fidelity by a regulariser, weighted by a regularisation parameter. Often the regularisation parameter is assumed to be strictly positive which implicitly assumes the regulariser is a good choice for the given application - but what does it mean for a regulariser to be “good”? One characterisation is offered via bilevel learning, a powerful framework to determine optimal parameters which involves solving a nested optimisation problem. Indeed, by optimising over the regularisation parameter we can determine conditions which guarantee that zero is not an optimal parameter. While existing conditions primarily focus on the denoising application, in this talk a new condition involving Bregman distances will be introduced that offers a better characterisation than existing theory and is applicable to a wide class of inverse problems and regularisers.
+  
+- date: 27 Oct 2023
+  speaker: Alexander Bastounis (Leicester)
+  url: TBC
+  zoom: 1
+  title: How do you know when you're right? -- On Smale's 9th problem and the limits of trustworthy AI  
+  abstract: Instability and hallucinations are the Achilles’ heel of modern AI and a paradox, with training algorithms finding unstable and hallucinating neural networks (NNs) despite the provable existence of stable and accurate NNs. This prompts the fundamental question -- can one build trustworthy AI? This is now becoming a delicate question with connections to the regulation of AI technology in high risk areas. In this talk we discuss how this question is linked to recent results on the extended Smale’s 9th problem, from the list of mathematical problems for the 21st century, and newly discovered phase transitions in optimisation. In particular, we will discuss how these results link to the difficulty of creating verification algorithms that can verify the validity of the output of modern AI. In particular, we demonstrate how in general it is impossible to check if AI based on neural networks hallucinate or not. The immediate corollary is that trustworthy AI can only have a weaker from of trust -- the ability to say ‘I don’t know’.
+  
+- date: 3 Nov 2023
+  speaker: Alexander Belozerov (Bath)
+  url: TBC
+  zoom: 1
+  title: Inadequacy of the Darcy model in some 2D/3D flows, its implications and a way forward
+  abstract: The classical Darcy model consisting of the continuity equation and the Darcy law is the main theoretical tool used to describe flows in porous media. It is known, however, that the conventional Darcy model, originally formulated for unidirectional flows, can exhibit nonphysical singularities in the velocity field for flows with essentially non-unidirectional streamlines, such as flows past corners. We study a class of models where the permeability even of a spatially uniform porous matrix is considered as a function of the curvature of the flow streamlines. This approach preserves the Darcy model for unidirectional flows, where it has been well-tested experimentally, whilst removing the velocity singularity for flows over corners where the curvature of the streamlines becomes singular. The introduced relation between the permeability and the flow completely changes the mathematical essence of the problem turning the classical linear elliptic equation formulated for Darcy’s model into a third-order strongly nonlinear PDE requiring thorough analysis and giving rise to a number of challenges in numerical implementation.
+
+- date: 10 Nov 2023
+  speaker: Matthias Ehrhardt (Bath)
+  url: https://mehrhardt.github.io/
+  zoom: 1
+  title: Towards Reliable Solutions of Inverse Problems with Deep Learning
+  abstract: Deep learning has revolutionised many scientific fields and so it is no surprise that state-of-the-art solutions to several inverse problems also include this technology. However, for many inverse problems (e.g. in medical imaging) stability and reliability are particularly important. Furthermore, unlike other image analysis tasks, usually only a fairly small amount of training data is available to train image reconstruction algorithms. Thus, we require tailored solutions which maximise the potential of all ingredients - data, domain knowledge and mathematical analysis. In this talk we discuss a range of such hybrid approaches and will encounter along the way connections to various topics like generative models, convex optimization, differential equations and equivariance.
+  
+- date: 17 Nov 2023
+  speaker: CANCELLED
+  url: TBC
+  zoom: 1
+  title: TBC
+  abstract: TBC
+  
+- date: 24 Nov 2023
+  speaker: Federico Cornalba (Bath)
+  url: https://sites.google.com/view/federicocornalba/home
+  zoom: 1
+  title: Describing interacting particle systems via stochastic PDEs
+  abstract: Large-scale systems of interacting particles are ubiquitous in several relevant applications (in fact, the term particle may stand for actual particles, individuals, animals, parameters in neural networks, etc…). In many circumstances, it may be convenient to describe such particle systems on the continuum scale, i.e., to view their empirical density as the solution of suitable stochastic PDEs. This way of looking at particle systems has given rise to the theory nowadays referred to as Fluctuating Hydrodynamics (FH). In this talk, I plan to (1) give a brief overview of the theory of Fluctuating Hydrodynamics. (2) discuss numerical discretisation and variance reduction for the Dean-Kawasaki model, a prototype model of FH (this part is based on joint works with Julian Fischer, Jonas Ingmanns, Claudia Raithel). (3) mention recent developments of FH in the high dimensional case (relevant for, e.g., SGD in shallow neural networks).
+
+- date: 1 Dec 2023
+  speaker: Coralia Cartis (Oxford)
+  url: TBC
+  zoom: 1
+  title: Sparse random embeddings and their applications to optimization
+  abstract: We present subspace embedding properties for hashing/count-sketch matrices that are optimal in the projection dimension of the sketch. A diverse set of results are presented that address the case when the input matrix has sufficiently low coherence; how this coherence changes with the number of column nonzeros (allowing a scaling of the coherence bound), or is reduced through suitable transformations (when considering hashed- instead of subsampled- coherence reducing transformations such as randomised Hadamard). We then discuss the application of these and other sketching results to optimization algorithms -- improving on the efficiency of Blendenpik for linear-least squares; and on the efficiency and complexity of random subspace methods for nonconvex optimization. 
+
+- date: 8 Dec 2023
+  speaker: MMath Year Long Project (YLP) talks
+  url: TBC
+  zoom: 1
+  title: TBC
+  abstract: 12.15 Julia Zysko (Numerical methods for stochastic differential equations), 12.30 Tom Kollig (Tomographic inverse problems), 12.45 Harry Lyness (Neural networks and differential equations), 13.00 Alex Terry (Neural networks and differential equations), 13.15 Megan Elliott (Matrix completion in imaging)

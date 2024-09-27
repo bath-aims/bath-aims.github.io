@@ -1,0 +1,74 @@
+title: "Bath Applied and Interdisciplinary Mathematics"
+email: bath-aims@lists.bath.ac.uk
+author: Bath AIMS
+masthead_title: Bath Applied and Interdisciplinary Mathematics
+description: "Homepage of the research group in Applied and Interdisciplinary Mathematics at the University of Bath."
+# github_username:  bath-aims
+repository: bath-aims/bath-aims.github.io
+future: true
+#
+atom_feed:
+  path: ""
+# Build settings
+markdown: kramdown
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+#theme: minimal-mistakes-jekyll 
+minimal_mistakes_skin: "air"
+# 
+permalink: /categories/:year/:title_:month_:day
+#
+collections_dir: collections
+collections:
+    members:
+     output: false
+    seminars:
+      output: true
+    research:
+      output: true
+    teaching:
+      output: true
+    members2:
+      output: true
+#
+defaults:
+  - scope:
+      path: ""
+      type: "research"
+    values:
+      layout: "research_topic"
+      sidebar:
+        nav: "research"
+  - scope:
+      path: ""
+      type: "seminars"
+    values:
+      layout: "seminar_semester"
+      sidebar:
+        nav: "seminars"
+  - scope:
+      path: ""
+      type: "teaching"
+    values:
+      layout: "unit"
+      sidebar:
+        nav: "teaching"
+  - scope:
+      path: ""
+      type: posts
+    values:
+      future: true
+      layout: single
+      classes: wide
+      toc: false
+      sidebar: 
+        nav: "events"
+      author_profile: false
+      read_time: false
+      comments: false
