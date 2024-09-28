@@ -51,10 +51,30 @@ research:
 #####################
 # Sidebar
 teaching:
-  # - title: Year Two
-  #   children:
-  #     - title: Numerical Analysis
-  #       url: /teaching/MA22037.html
+  - title: Year One
+    children:
+    - title: Applied mathematics 1A
+    - title: Applied mathematics 1B
+  - title: Year Two
+    children:
+    - title: Differential equations and vector calculus
+    - title: Advanced linear algebra
+    - title: Machine learning 1
+    - title: Partial differential equations
+    - title: Mathematical biology&#58; ecology and epidemiology
+  - title: Years Three and Four
+    children:
+    - title: Mathematical methods 1
+    - title: Mathematical biology 1
+    - title: Dynamics and chaos
+    - title: Continuum mechanics
+    - title: Mathematical methods 2
+    - title: Mathematical biology 2
+    - title: Numerical solution of elliptic PDEs
+    - title: Mathematics of Planet Earth
+    - title: Elasticity
+    - title: Viscous fluid dynamics
+    - title: Numerical solution of evolutionary equations
   #     - title: Machine Learning I
   #       url: /teaching/MA22018.html
 ####################### 
@@ -69,6 +89,7 @@ events:
     url: /events/index.html
   - title: "All AIMS seminars"
     url: /events/all_seminars.html
-
+  #- title: "All"
+  #  url: /events/all.html
 # 
 # end of sidebars
