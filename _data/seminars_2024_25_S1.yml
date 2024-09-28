@@ -6,7 +6,7 @@
   abstract: In the last decade, there has been a movement to describe biological and social systems via agent-based models, which track individual agents (organisms, cells, people) and their environment through a set of deterministic and probabilistic rules. In this talk, we examine how local individual-based mechanisms translate into global population dynamics. In particular, we will consider the Allee effect in population models, which were originally proposed to describe population dynamics that cannot be explained by exponential and logistic growth models. Using stochastic individual-based models, we can obtain a modelling framework that translates particular global Allee effects to specific individual-based mechanisms. This modelling framework is then extended to applications in the social sciences, including the modelling of sports riots and panic-buying.
 
 - date: 15 Oct 2024
-  speaker: Jeremy Budd (Manchester)
+  speaker: Jeremy Budd (Birmingham)
   url: https://jeremybudd.com/
   zoom: 1
   title: Graph-based learning and learned adversarial regularisation

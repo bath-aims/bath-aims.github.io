@@ -54,29 +54,45 @@ teaching:
   - title: Year One
     children:
     - title: Applied mathematics 1A
+      url: /teaching/MA12002.html
     - title: Applied mathematics 1B
+      url: /teaching/MA12003.html
   - title: Year Two
     children:
     - title: Differential equations and vector calculus
+      url: /teaching/MA22016.html
     - title: Advanced linear algebra
+      url: /teaching/MA22020.html
     - title: Machine learning 1
+      url: /teaching/MA22018.html
     - title: Partial differential equations
+      url: /teaching/MA22021.html
     - title: Mathematical biology&#58; ecology and epidemiology
+      url: /teaching/MA22035.html
   - title: Years Three and Four
     children:
     - title: Mathematical methods 1
+      url: /teaching/MA30044.html
     - title: Mathematical biology 1
+      url: /teaching/MA30047.html
     - title: Dynamics and chaos
+      url: /teaching/MA30060.html
     - title: Continuum mechanics
+      url: /teaching/MA30253.html
     - title: Mathematical methods 2
+      url: /teaching/MA30059.html
     - title: Mathematical biology 2
+      url: /teaching/MA30063.html
     - title: Numerical solution of elliptic PDEs
+      url: /teaching/MA30170.html
     - title: Mathematics of Planet Earth
+      url: /teaching/MA30287.html
     - title: Elasticity
+      url: /teaching/MA40049.html
     - title: Viscous fluid dynamics
+      url: /teaching/MA40255.html
     - title: Numerical solution of evolutionary equations
-  #     - title: Machine Learning I
-  #       url: /teaching/MA22018.html
+      url: /teaching/MA40171.html
 ####################### 
 # Sidebar
 people:
