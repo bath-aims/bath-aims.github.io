@@ -1,8 +1,8 @@
 ---
-given: Phil
-last: Trinh
+given: Alex
+last: Doak
 research: Fluid mechanics, Asymptotic analysis, Mathematical modelling
-homepage: http://ptrinh.com/
-pic: trinh.jpg
+homepage: https://researchportal.bath.ac.uk/en/persons/alex-doak
+pic: doak.png
 topics: fluids asymptotics modelling
 ---
