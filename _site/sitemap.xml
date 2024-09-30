@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/members2/doak_a</loc>
+</url>
+<url>
+<loc>http://localhost:4000/members2/shelton_j</loc>
+</url>
+<url>
 <loc>http://localhost:4000/categories/2024/seminar_10_01</loc>
 <lastmod>2024-10-01T00:00:00+01:00</lastmod>
 </url>

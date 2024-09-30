@@ -29,12 +29,6 @@ var store = [{
         "url": "/members/dawes_j",
         "teaser": null
       },{
-        "title": "Doak_a",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/members/doak_a",
-        "teaser": null
-      },{
         "title": "Evans_j",
         "excerpt":" ","categories": [],
         "tags": [],
@@ -63,12 +57,6 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/members/rogers_t",
-        "teaser": null
-      },{
-        "title": "Shelton_j",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/members/shelton_j",
         "teaser": null
       },{
         "title": "Sivaloganathan_j",
@@ -111,6 +99,18 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/members/yates_k",
+        "teaser": null
+      },{
+        "title": "Doak_a",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/members2/doak_a",
+        "teaser": null
+      },{
+        "title": "Shelton_j",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/members2/shelton_j",
         "teaser": null
       },{
         "title": "Bath Applied and Interdisciplinary Mathematics Seminar",
