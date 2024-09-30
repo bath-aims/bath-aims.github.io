@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-09-30T11:30:10+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Bath Applied and Interdisciplinary Mathematics</title><subtitle>Homepage of the research group in Applied and Interdisciplinary Mathematics at the University of Bath.</subtitle><author><name>Bath AIMS</name></author><entry><title type="html">Bath Applied and Interdisciplinary Mathematics Seminar</title><link href="http://localhost:4000/categories/2024/seminar_10_01" rel="alternate" type="text/html" title="Bath Applied and Interdisciplinary Mathematics Seminar" /><published>2024-10-01T00:00:00+01:00</published><updated>2024-10-01T00:00:00+01:00</updated><id>http://localhost:4000/categories/2024/seminar</id><content type="html" xml:base="http://localhost:4000/categories/2024/seminar_10_01"><![CDATA[<p> Fridays at <b>12.15</b> at Wolfson 4W 1.7. All talks will be broadcast on Zoom. <br />
+    <center></center>  </p>
+
+<p> <b> Everyone is welcome at these talks. </b> </p>
+
+<style>
+ summary {
+  padding: 4px;
+  border: none;
+  font-size: initial;
+}
+ td {
+  padding: 4px;
+  border: none;
+  font-size: initial;
+}
+ details  {
+  padding: 4px;
+  font-size: 80%;
+}
+</style>
+
+<table style="table-layout: fixed; width:100%; margin:auto; text-align:center">
+<thead>
+<tr>
+<td style="text-align:center">Date</td>
+<td style="text-align:center">Speaker</td>
+<td style="text-align:center">Title</td>
+</tr>
+</thead>
+<tbody>
+<style>
+      tr:nth-of-type(even) {
+      background-color:#ebf5f8;
+    }
+
+</style>
+
+
+ <tr future-date="2024-10-08">
+
+<td>  8 Oct 2024 </td>
+  <td>
+   <a href="https://nabiltfadai.wixsite.com/website">Nabil Fadai (Nottingham) </a> </td>
+
+  <td style="text-align:left">   
+
+  
+  <details>  
+  <summary>
+  
+   Stochastic agent-based models in mathematical biology
+  
+   </summary>
+    <p>
+    <p>In the last decade, there has been a movement to describe biological and social systems via agent-based models, which track individual agents (organisms, cells, people) and their environment through a set of deterministic and probabilistic rules. In this talk, we examine how local individual-based mechanisms translate into global population dynamics. In particular, we will consider the Allee effect in population models, which were originally proposed to describe population dynamics that cannot be explained by exponential and logistic growth models. Using stochastic individual-based models, we can obtain a modelling framework that translates particular global Allee effects to specific individual-based mechanisms. This modelling framework is then extended to applications in the social sciences, including the modelling of sports riots and panic-buying.</p>
+
+   </p>
+    </details>
+ 
+  </td>
+
+  </tr>
+  
+
+ <tr future-date="2024-10-15">
+
+<td>  15 Oct 2024 </td>
+  <td>
+   <a href="https://jeremybudd.com/">Jeremy Budd (Birmingham) </a> </td>
+
+  <td style="text-align:left">   
+
+  
+  <details>  
+  <summary>
+  
+   Graph-based learning and learned adversarial regularisation
+  
+   </summary>
+    <p>
+    <p>TBD</p>
+
+   </p>
+    </details>
+ 
+  </td>
+
+  </tr>
+  
+
+ <tr future-date="2024-10-22">
+
+<td>  22 Oct 2024 </td>
+  <td>
+   <a href="https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=1066">Geoff Vasil (Edinburgh) </a> </td>
+
+  <td style="text-align:left">   
+
+  
+  <details>  
+  <summary>
+  
+   TBD
+  
+   </summary>
+    <p>
+    <p>TBD</p>
+
+   </p>
+    </details>
+ 
+  </td>
+
+  </tr>
+  
+
+ <tr future-date="2024-10-29">
+
+<td>  29 Oct 2024 </td>
+  <td>
+   <a href="https://scholar.google.com/citations?user=qvbloLQAAAAJ&amp;hl=en">Kasia Warburton (Cambridge) </a> </td>
+
+  <td style="text-align:left">   
+
+  
+  <details>  
+  <summary>
+  
+   Water pressure evolution beneath glaciers
+  
+   </summary>
+    <p>
+    <p>TBD</p>
+
+   </p>
+    </details>
+ 
+  </td>
+
+  </tr>
+  
+
+ <tr future-date="2024-11-05">
+
+<td>  5 Nov 2024 </td>
+  <td>
+   <a href="https://keaton-burns.com/">Keaton Burns (MIT) </a> </td>
+
+  <td style="text-align:left">   
+
+  
+  <details>  
+  <summary>
+  
+   TBD
+  
+   </summary>
+    <p>
+    <p>TBD</p>
+
+   </p>
+    </details>
+ 
+  </td>
+
+  </tr>
+  
+
+ <tr future-date="2024-11-12">
+
+<td>  12 Nov 2024 </td>
+  <td>
+   <a href="https://loisbaker.github.io/">Lois Baker (Edinburgh) </a> </td>
+
+  <td style="text-align:left">   
+
+  
+  <details>  
+  <summary>
+  
+   TBD
+  
+   </summary>
+    <p>
+    <p>TBD</p>
+
+   </p>
+    </details>
+ 
+  </td>
+
+  </tr>
+  
+
+ <tr future-date="2024-11-19">
+
+<td>  19 Nov 2024 </td>
+  <td>
+   <a href="https://www.physics.ox.ac.uk/our-people/mietke">Alexander Mietke (Oxford) </a> </td>
+
+  <td style="text-align:left">   
+
+  
+  <details>  
+  <summary>
+  
+   TBD
+  
+   </summary>
+    <p>
+    <p>TBD</p>
+
+   </p>
+    </details>
+ 
+  </td>
+
+  </tr>
+  
+
+ <tr future-date="2024-11-26">
+
+<td>  26 Nov 2024 </td>
+  <td>
+   <a href="https://www.gla.ac.uk/schools/engineering/staff/angelabusse/">Angela Busse (Glasgow) </a> </td>
+
+  <td style="text-align:left">   
+
+  
+  <details>  
+  <summary>
+  
+   TBD
+  
+   </summary>
+    <p>
+    <p>TBD</p>
+
+   </p>
+    </details>
+ 
+  </td>
+
+  </tr>
+  
+
+</tbody>
+</table>
+
+<details class="notice--info">
+  <summary>Subscribe to AIMS</summary>
+<p>Here are the steps to join the AIMS mailing list.
+
+<ul>
+  <li>Send a message to sympa@lists.bath.ac.uk from the address you want to subscribe to the list.</li>
+  <li>In the subject line of your message, type in: <kbd>subscribe aims_seminars YourFirstName YourLastName</kbd> </li>
+  <li>Leave the message body blank</li>
+</ul>
+
+If you encounter an issue or would like help, please mail the main organiser at p.trinh[at]bath.ac.uk and I can assist!
+
+If you would like to remove yourself from the mailing list, see <a href="http://ptrinh.com/aims_unsubscribe">here</a>.
+</p>
+    
+</details>
+
+<details class="notice--info">
+  <summary>How to get to Bath</summary>
+  See <a href="https://www.bath.ac.uk/travel-advice/">here</a> for instructions how to get to Bath. Please email
+  <a href="https://ptrinh.com/">Phil Trinh</a> (<font face="Courier"><a href="hppt20@bath.ac.uk">hppt20@bath.ac.uk</a></font>), <a href="https://www.math.ucla.edu/~ehester/">Eric Hester</a> (<font face="Courier"><a href="eh2450@bath.ac.uk">eh2450@bath.ac.uk</a></font>), and <a href="https://people.bath.ac.uk/js2317/">Josh Shelton</a> (<font face="Courier"><a href="js2317@bath.ac.uk">js2317@bath.ac.uk</a></font>) if you intend to come by car and require a parking
+  permit for Bath University Campus for the day.
+</details>
+
+<details class="notice--info">
+  <summary>Tips for giving talks </summary>
+<h4>Tips for new students on giving talks
+</h4>
+<p>
+Since the audience of the AIMS seminar contains both PhD students and staff with quite wide interests and backgrounds, the following are some guidelines/hints to make sure people don't give you evil looks at lunch afterwards. </p>
+<p>
+Before too much time passes in your talk, ideally the audience should know the answers to the following 4 questions:
+</p>
+<ul>
+  <li>What is the problem you're considering? </li>
+  <li>Why do you find this interesting? </li>
+  <li>What has been done before on this problem/what's the background? </li>
+  <li>What is your approach/what are you going to talk
+     about? </li>
+</ul>
+<p>There are lots of different ways to communicate this information. One way, if you're doing a slide show, could be for the first 4 slides to cover these 4 questions; although in this case you may want to revisit these points later on in the talk (e.g. to give more detail). 
+</p>
+<p>Remember:
+</p>
+<ul>
+  <li>"vertebrate style" (structure hidden inside - like the skeleton of a vertebrate) = good for detective stories, bad for maths talks. </li>
+  <li>"crustacean style" (structure visible from outside - like the skeleton of a crustacean) = bad for detective stories, good for maths talks. </li>
+</ul>
+
+
+
+</details>]]></content><author><name>Bath AIMS</name></author><category term="bnaseminar" /><summary type="html"><![CDATA[2024/25 - Semester 1]]></summary></entry></feed>
