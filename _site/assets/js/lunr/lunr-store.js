@@ -114,7 +114,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Bath Applied and Interdisciplinary Mathematics Seminar",
-        "excerpt":"Tuesdays at 13.15 at Wolfson 4W 1.7. All talks will be broadcast on Zoom. Everyone is welcome at these talks. Date Speaker Title 8 Oct 2024 Nabil Fadai (Nottingham) Stochastic agent-based models in mathematical biology In the last decade, there has been a movement to describe biological and social systems...","categories": ["bnaseminar"],
+        "excerpt":"Tuesdays at 13.15 at Wolfson 4W 1.7. All talks will be broadcast on Zoom (link detials below). Everyone is welcome at these talks. Date Speaker Title 8 Oct 2024 Nabil Fadai (Nottingham) Stochastic agent-based models in mathematical biology In the last decade, there has been a movement to describe biological...","categories": ["bnaseminar"],
         "tags": [],
         "url": "/categories/2024/seminar_10_01",
         "teaser": null
