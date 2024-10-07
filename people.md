@@ -25,7 +25,7 @@ classes: wide
 </ul>
  
 
-# Emeritus and visiting staff
+# Research staff
 
 {% assign sorted2 = site.members2 | sort: 'last'  %}
 <ul id="two_col">
