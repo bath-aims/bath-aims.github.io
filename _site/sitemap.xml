@@ -127,4 +127,11 @@
 <url>
 <loc>http://localhost:4000/teaching/</loc>
 </url>
+<url>
+<loc>http://localhost:4000/events/travel.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/assets/visitors-expense-claim-form.pdf</loc>
+<lastmod>2024-10-10T09:49:07+01:00</lastmod>
+</url>
 </urlset>

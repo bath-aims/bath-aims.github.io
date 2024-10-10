@@ -108,6 +108,8 @@ events:
     url: /events/index.html
   - title: "All AIMS seminars"
     url: /events/all_seminars.html
+  - title: "Travel and claims"
+    url: /events/travel.html
   #- title: "All"
   #  url: /events/all.html
 # 
