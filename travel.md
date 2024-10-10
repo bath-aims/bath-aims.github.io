@@ -33,10 +33,10 @@ organiser3_url: https://people.bath.ac.uk/js2317/
 Please complete the claims form <a href="./../assets/visitors-expense-claim-form.pdf">here</a> and email our department coordinators <a href="mailto:maths-enquiries@bath.ac.uk" style="font-family: Courier;">maths-enquiries@bath.ac.uk</a> with receipts and a suitable subject line like "AIMS travel claim for X".
 
 Please Cc the organisation team and we will then be able to follow-up with the departmental coordinators in case there are any issues: <a href="{{ page.organiser1_url }}">{{ page.organiser1 }}</a> (<font face="Courier"><a
-      href="{{ page.organiser1_email }}">{{ page.organiser1_email }}</a></font>, <a
+      href="{{ page.organiser1_email }}">{{ page.organiser1_email }}</a></font>), <a
     href="{{ page.organiser2_url }}">{{ page.organiser2 }}</a> (<font face="Courier"><a
-      href="{{ page.organiser2_email }}">{{ page.organiser2_email }}</a></font>, and <a
+      href="{{ page.organiser2_email }}">{{ page.organiser2_email }}</a></font>), and <a
     href="{{ page.organiser3_url }}">{{ page.organiser3 }}</a> (<font face="Courier"><a
-      href="{{ page.organiser3_email }}">{{ page.organiser3_email }}</a></font>
+      href="{{ page.organiser3_email }}">{{ page.organiser3_email }}</a></font>)
 </details>
 
