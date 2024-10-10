@@ -10,7 +10,7 @@
   url: https://jeremybudd.com/
   zoom: 1
   title: Graph-based learning and learned adversarial regularisation
-  abstract: TBD
+  abstract: This talk is really two talks glued together under the (very!) vague theme of "learning". In the first half, I will give an overview of the field of graph-based learning, a field that has matured over the last 15 years and is rich in both practical applications and theoretical underpinnings. The key idea of graph-based learning is to understand interrelated data as a graph, to solve variational problems and PDEs on that graph to analyse that data, and to study the limits of such models as the number of nodes goes to infinity.  In the second half, I will talk about some of my recent work in learning a regulariser for inverse problems. In an inverse problem, one seeks to recover some unknown input given knowledge of some output measurement. This problem is ill-posed, as the measurement process invariably loses information. To counteract this, one must impose some prior for what the input "should" have looked like. Learned regularisation seeks to learn this prior from data. 
 
 - date: 22 Oct 2024
   speaker: Geoff Vasil (Edinburgh)
@@ -36,6 +36,13 @@
 - date: 12 Nov 2024
   speaker: Lois Baker (Edinburgh)
   url: https://loisbaker.github.io/
+  zoom: 1
+  title: Lagrangian filtering for wave-mean flow decomposition
+  abstract: In geophysical and astrophysical flows, we are often interested in understanding the impact of internal waves on the non-wavelike flow. For example, oceanic internal waves generated at the surface and the seafloor transfer energy from the large scale flow to dissipative scales, thereby influencing the global ocean state. A primary challenge in the study of wave-flow interactions is how to separate these processes – since waves and non-wavelike flows can vary on similar spatial and temporal scales in the Eulerian frame. However, in a Lagrangian flow-following frame, temporal filtering offers a convenient way to isolate waves. In this talk I’ll present and discuss some recently developed methods for evolving Lagrangian mean fields alongside the governing equations in a numerical simulation, allowing effective filtering of waves from non-wavelike processes.
+
+- date: 13 Nov 2024
+  speaker: Peter Constantin (Princeton)
+  url: https://web.math.princeton.edu/~const/
   zoom: 1
   title: TBD
   abstract: TBD
