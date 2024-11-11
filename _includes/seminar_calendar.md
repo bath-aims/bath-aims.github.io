@@ -19,8 +19,8 @@ If you would like to remove yourself from the mailing list, see <a href="http://
 <details class="notice--info" >
   <summary>Zoom meeting links</summary>
     <h2>Join Zoom Meeting</h2>
-    <p><a href="https://bath-ac-uk.zoom.us/j/94451925563?pwd=qik7720Kbl7j6E3EkjuXQvkkUjSFdz.1">https://bath-ac-uk.zoom.us/j/94451925563?pwd=qik7720Kbl7j6E3EkjuXQvkkUjSFdz.1</a></p>
+    <p><a href="https://bath-ac-uk.zoom.us/j/99753762534?pwd=4gMpJvORysHydzEzym33HsBuS0Vg2H.1">https://bath-ac-uk.zoom.us/j/99753762534?pwd=4gMpJvORysHydzEzym33HsBuS0Vg2H.1</a></p>
 
-    <p><strong>Meeting ID:</strong> 944 5192 5563</p>
-    <p><strong>Passcode:</strong> 166901</p>
+    <p><strong>Meeting ID:</strong> 997 5376 2534</p>
+    <p><strong>Passcode:</strong> 411754</p>
 </details>

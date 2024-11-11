@@ -16,22 +16,27 @@
   speaker: Geoff Vasil (Edinburgh)
   url: https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=1066
   zoom: 1
-  title: TBD
-  abstract: TBD
+  title: Polynomials for Fun and Profit
+  abstract: This talk will outline a wide range of amazing properties of a few meek little polynomials. I will briefly discuss how I came to this line of inquiry honestly via the mathematics underlying the Dedalus computational framework for solving general classes of PDEs. But after that, I’m taking the gloves off for a wild trip through the land of geometry, probability and combinatorics.
 
 - date: 29 Oct 2024
   speaker: Kasia Warburton (Cambridge)
   url: https://scholar.google.com/citations?user=qvbloLQAAAAJ&hl=en
   zoom: 1
   title: Water pressure evolution beneath glaciers
-  abstract: TBD
+  abstract: In Antarctica and Greenland, most ice makes its way from the interior of the ice sheet, where it falls as snow, to the margins, where it ablates, via fast flowing glaciers. These glaciers flow fast due to sliding between the ice and bed, the rate of which sensitively depends on the water pressure there. In this talk I will present models for the subglacial hydrology of ice sheets which capture tidal and seasonal water pressure fluctuations, a range of timescales for which the overlying ice goes from behaving primarily elastically to viscously. 
 
 - date: 5 Nov 2024
   speaker: Keaton Burns (MIT)
   url: https://keaton-burns.com/
   zoom: 1
-  title: TBD
-  abstract: TBD
+  title: Solving PDEs exactly over polynomials
+  abstract: |
+    Numerical simulations of partial differential equations (PDEs) are indispensable across science and engineering. For simple geometries, spectral methods are a powerful class of techniques that produce exceptionally accurate solutions for wide ranges of equations. But many variations of these methods exist, each with distinct properties and performance, and developing the best method for a complex nonlinear problem is often quite challenging.
+
+    In this context, we present a framework that unifies all polynomial and trigonometric spectral methods, from classical "collocation" to the more recent "ultraspherical" schemes. In particular, we examine the exact discrete equations solved by each method and characterize their deviation from the original PDE in terms of perturbations called "tau corrections". By analyzing these corrections, we can precisely categorize existing methods and design new solvers that robustly accommodate new boundary conditions, eliminate spurious numerical modes, and satisfy exact conservation laws.
+
+    This approach conceptually separates *what* discrete model a spectral scheme solves from *how* it solves it. This separation provides much more freedom when building and optimizing new numerical models. We will illustrate these advantages with various examples from fluid dynamics using Dedalus, an open-source package for solving PDEs with modern spectral methods.
 
 - date: 12 Nov 2024
   speaker: Lois Baker (Edinburgh)
@@ -44,8 +49,11 @@
   speaker: Peter Constantin (Princeton)
   url: https://web.math.princeton.edu/~const/
   zoom: 1
-  title: TBD
-  abstract: TBD
+  title: Global regularity for critical SQG in bounded domains
+  abstract: |
+    The critical SQG (surface quasi-geostrophic) equation is widely studied in relation to rapid formation of small scales in fluids. In the whole space or on the torus, this dissipative equation has been shown to have global smooth solutions some fifteen years ago by Caffarelli–Vasseur and, independently, by Kiselev–Nazarov–Volberg.
+
+    The problem of existence and uniqueness of global smooth solution in bounded domains remained open until now. I will present a proof of global regularity obtained recently with Ignatova and Q-H. Nguyen. We introduce a new methodology of transforming the single nonlocal nonlinear evolution equation in a bounded domain into an interacting system of extended nonlocal nonlinear evolution equations in the whole space. The proof uses the method of the nonlinear maximum principle for nonlocal operators in the extended system.
 
 - date: 19 Nov 2024
   speaker: Alexander Mietke (Oxford)
