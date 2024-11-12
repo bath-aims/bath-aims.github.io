@@ -59,8 +59,11 @@
   speaker: Alexander Mietke (Oxford)
   url: https://www.physics.ox.ac.uk/our-people/mietke
   zoom: 1
-  title: TBD
-  abstract: TBD
+  title: Spontaneous shape transformations of active surfaces
+  abstract: |
+    Biological matter has the fascinating ability to autonomously generate material deformations via intrinsic active forces, where the latter are often present within effectively two-dimensional structures. The dynamics of such “active surfaces” inevitably entails a complex, self-organized interplay between geometry of a surface and its mechanical interactions with the surrounding. The impact of these factors on the self-organization capacity of surfaces made of an active material, and how related effects are exploited in biological systems, is largely unknown.
+
+    In this talk, we will focus on active surfaces with broken up-down symmetry, of which the eukaryotic cell cortex and epithelial tissues are highly abundant biological examples. In such surfaces, a natural interplay arises between active stresses and surface curvature. We demonstrate that this interplay leads to a comprehensive library of spontaneous shape transformations that resemble stereotypical morphogenetic processes. These include cell-division-like invaginations and the autonomous formation of tubular surfaces of arbitrary length, both of which robustly overcome well-known shape instabilities that would arise in analogue passive systems. 
 
 - date: 26 Nov 2024
   speaker: Angela Busse (Glasgow)
