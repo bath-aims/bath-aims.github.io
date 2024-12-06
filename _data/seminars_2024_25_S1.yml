@@ -69,6 +69,12 @@
   speaker: Angela Busse (Glasgow)
   url: https://www.gla.ac.uk/schools/engineering/staff/angelabusse/
   zoom: 1
-  title: TBD
-  abstract: TBD
+  title: The imprint of roughness topography on near wall-turbulence
+  abstract: When we consider wall-bounded flows, rough-wall conditions can be considered the norm rather than the exception – surfaces are rarely perfectly smooth, and they tend to acquire blemishes over time. One of the key challenges in investigating rough-wall turbulence is that roughness can occur in many different forms. In recent years, the influence of roughness topography has received increased attention and parameters such as the skewness of the roughness height distribution and the effective slope have been identified as having a strong influence on the fluid dynamic roughness effect. In this talk, I will discuss different roughness topographical parameters and their effect on the near wall flow as well as the challenges in finding a comprehensive set of topographical parameters for the empirical prediction of roughness effects on wall-bounded turbulence.
 
+- date: 10 Dec 2024
+  speaker: Carlos Jerez-Hanckes (Universidad Adolfo Ibáñez)
+  url: https://sites.google.com/view/jerez-hanckes
+  zoom: 1
+  title: Cell Electro-permeabilization Modeling Via Multiple Traces Formulation and Time Semi-Implicit Multistep Coupling
+  abstract: I will present new results concerning the simulation of the electrical response of multiple disjoint biological 3D cells undergoing an electro-permeabilization (enhancing ion transfer across cellular membrane) process. Instead of solving the boundary value problem in the unbounded volume, we reduce it to a system of boundary integrals equations--the local Multiple Traces Formulation--coupled with nonlinear dynamics on the cell membranes. Though in time the model is highly non-linear and poorly regular, the smooth geometry allows for boundary unknowns to be spatially approximated by spherical harmonics. This leads to spectral convergence rates in space. In time, we use a multistep semi-implicit scheme. Numerical results are provided to validate our claims and future enhancements are pointed out.
