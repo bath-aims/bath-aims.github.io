@@ -1,0 +1,78 @@
+- date: 03 Feb 2025
+  speaker: Matthew Colbrook (Cambridge)
+  url: https://www.damtp.cam.ac.uk/user/mjc249/home.html
+  zoom: 1
+  title: What can we learn about a dynamical system from data? – Impossibility results and classifications using adversarial dynamical systems.
+  abstract: "Machine learning has emerged as a powerful tool for studying complex nonlinear systems using trajectory data, with applications spanning climate science, epidemiology, and beyond. A fundamental question arises: When can we reliably learn system behaviors from data, and when is it fundamentally impossible? In this talk, I will introduce the concept of adversarial dynamical systems-systems specifically designed to prevent learning algorithms from converging. This approach enables the development of a rigorous classification framework that identifies the intrinsic difficulty of problems and establishes what is fundamentally unattainable. These results reveal impossibility theorems for data-driven system learning, showing that such adversarial systems arise with high probability and that reliable learning can remain out of reach regardless of the algorithm, data quality, or quantity. To illustrate, I will focus on Koopman operators, which reformulate nonlinear dynamics as infinite-dimensional spectral problems (search “Koopmania” for more!). By understanding these barriers, we can design methods that provably converge, achieving breakthroughs such as state-of-the-art predictions of Arctic sea ice dynamics."
+
+- date: 11 Feb 2025
+  speaker: Thomasina Ball (Warwick)
+  url: https://warwick.ac.uk/fac/sci/maths/people/staff/tball/
+  zoom: 1
+  title: TBD
+  abstract: TBD
+
+- date: 18 Feb 2025
+  speaker: Emilian Parau (University of East Anglia)
+  url: https://research-portal.uea.ac.uk/en/persons/emilian-parau
+  zoom: 1
+  title: Evolution of nonlinear waves in the marginal ice zone
+  abstract: "Wave and sea ice properties in the Arctic and Southern Oceans are linked by feedback mechanisms, therefore the understanding of wave propagation in these regions is essential to model this key component of the Earth climate system. The most striking effect of sea ice in the marginal ice zone (MIZ) is the attenuation of waves at a rate proportional to their frequency. In this talk we will model their dynamics  by the damped nonlinear Schrödinger equation (NLS), its higher order version, Dysthe’s equation, or using the spatial Zakharov equation.  The evolution of energetic unidirectional random waves and the modulational instability will be discussed."
+
+- date: 25 Feb 2025
+  speaker: Laura Cope 
+  url: https://scholar.google.co.uk/citations?user=ZXb_6j4AAAAJ&hl=en
+  zoom: 1
+  title: TBD
+  abstract: TBD
+
+- date: 4 Mar 2025
+  speaker: Anand Oza (New Jersey Institute of Technology)
+  url: https://web.njit.edu/~oza/
+  zoom: 1
+  title: Coarse-grained models for schooling swimmers in fast flows
+  abstract: "The beautiful displays exhibited by fish schools and bird flocks have long fascinated scientists, but the role of their complex behavior remains largely unknown. In particular, the influence of hydrodynamic interactions on schooling and flocking has been the subject of debate in the scientific literature. I will present a model for flapping wings that interact hydrodynamically in an inviscid fluid, wherein each wing is represented as a plate that executes a prescribed time-periodic kinematics. The model generalizes and extends thin-airfoil theory by assuming that the flapping amplitude is small, and permits consideration of multiple wings through the use of conformal maps and multiply-connected function theory. We find that the model predictions agree well with experimental data on freely-translating, flapping wings in a water tank. The results are then used to motivate a reduced-order model for the temporally nonlocal interactions between schooling wings, which consists of a system of nonlinear delay-differential equations. We obtain a PDE as the mean-field limit of these equations, which we find supports traveling wave solutions. Generally, our results indicate how hydrodynamics may mediate schooling and flocking behavior in biological contexts."
+
+- date: 11 Mar 2025
+  speaker: Stephen Wilson (Bath)
+  url: https://researchportal.bath.ac.uk/en/persons/stephen-wilson-2
+  zoom: 1
+  title: TBD
+  abstract: TBD
+
+- date: 18 Mar 2025
+  speaker: Andrew Wells (Oxford)
+  url: https://www.physics.ox.ac.uk/our-people/wellsa
+  zoom: 1
+  title: TBD
+  abstract: TBD
+
+- date: 25 Mar 2025
+  speaker: Duncan Hewitt (Cambridge)
+  url: https://www.damtp.cam.ac.uk/person/drh39
+  zoom: 1
+  title: "Swimming in mud: modelling locomotion in cohesive materials"
+  abstract: TBD
+  
+- date: 1 Apr 2025
+  speaker: Daphné Lemasquerier (St Andrews)
+  url: https://www.st-andrews.ac.uk/mathematics-statistics/people/dgsl1/
+  zoom: 1
+  title: TBD
+  abstract: TBD
+  
+- date: 22 Apr 2025
+  speaker: Jacob Page (Edinburgh)
+  url: https://www.jacob-page.com/about-1
+  zoom: 1
+  title: "Nonlinear travelling waves in viscoelastic shear flows"
+  abstract: "Viscoelastic fluids are common in industry and nature. They are characterised by a complex microstructure which gives rise to many counter-intuitive effects at the macroscale. This includes the creation of new types of self-sustaining `turbulent’ motion: (1) elastic turbulence which exists in the limit of zero Reynolds number and (2) elasto-inertial turbulence which relies on an interplay between inertia and elasticity, but has phenomenology which is distinct from the rolls and streaks of Newtonian turbulent boundary layers. The dynamical origins and connections between these regimes are the subject of ongoing experimental and computational study, and I will discuss our attempts to understand this subject via continuation of exact coherent structures (ECS) in parameter space. The ECS are finite amplitude solutions of the governing equations which are connected to new viscoelastic linear instabilities. An `arrowhead’ travelling wave (Page, Dubief & Kerswell, Phys. Rev. Lett. 2020) appears to be linked to the onset of chaotic motion at zero inertia in parallel channel (Lellep et al, Proc. Nat. Acad. Sci. 2024), while finite amplitude solution associated with diffusivity in the polymer model can initiate transition to chaos over a wide range of Reynolds numbers (Beneitez et al, Pays. Rev. Fluids 2023). However, the latter appears to be incompatible with the continuum approximation and raises interesting questions about the underlying model for the polymers."
+  
+- date: 29 Mar 2025
+  speaker: Ruth Baker (Oxford)
+  url: https://www.maths.ox.ac.uk/people/ruth.baker
+  zoom: 1
+  title: TBD
+  abstract: TBD
+  
+
