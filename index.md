@@ -4,7 +4,7 @@ excerpt: "Research group<br><br>Department of Mathematical Sciences<br>Universit
 header:
   overlay_image: "/assets/pics/waterwave.png"
   actions:
-    - label: "More info"
-      url: /about/
+    - label: "Upcoming Seminars"
+      url: /events/current_seminars
 title: "Applied and Interdisciplinary Mathematics"
 ---
