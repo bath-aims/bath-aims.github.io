@@ -15,4 +15,4 @@ classes: wide
    {% endfor %}
 </div>
 
-{% include future-date.html %}
+<!-- {% include future-date.html %} -->
