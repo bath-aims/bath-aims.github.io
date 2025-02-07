@@ -9,8 +9,10 @@
   speaker: Thomasina Ball (Warwick)
   url: https://warwick.ac.uk/fac/sci/maths/people/staff/tball/
   zoom: 1
-  title: TBD
-  abstract: TBD
+  title: Convergent viscous gravity driven flows as a model for mountain building
+  abstract: "Many mountain ranges are formed when tectonic plates collide, resulting in the large-scale deformation of rock that produces topographic variations. Compression creates steep topographic gradients, whereas gravitational forces act to reduce contrasts in elevation, resulting in an evolving system that is governed by the balance of external forcing and gravity.  
+ 
+Over sufficiently long timescales and lengthscales, this system can be modelled in a continuum manner, as a convergent viscous gravity current. In this talk I will discuss the progress we’ve made in modelling mountain building, from incorporating flexure of the underthrusting plate, to extending the rheology to yield stress fluids, both theoretically and numerically."
 
 - date: 18 Feb 2025
   speaker: Emilian Parau (University of East Anglia)
