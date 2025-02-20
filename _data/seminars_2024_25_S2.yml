@@ -22,11 +22,11 @@ Over sufficiently long timescales and lengthscales, this system can be modelled 
   abstract: "Wave and sea ice properties in the Arctic and Southern Oceans are linked by feedback mechanisms, therefore the understanding of wave propagation in these regions is essential to model this key component of the Earth climate system. The most striking effect of sea ice in the marginal ice zone (MIZ) is the attenuation of waves at a rate proportional to their frequency. In this talk we will model their dynamics  by the damped nonlinear Schrödinger equation (NLS), its higher order version, Dysthe’s equation, or using the spatial Zakharov equation.  The evolution of energetic unidirectional random waves and the modulational instability will be discussed."
 
 - date: 25 Feb 2025
-  speaker: Laura Cope 
+  speaker: Laura Cope (Exeter)
   url: https://scholar.google.co.uk/citations?user=ZXb_6j4AAAAJ&hl=en
   zoom: 1
-  title: TBD
-  abstract: TBD
+  title: The Dynamics of Stochastically-Forced Zonal Jets
+  abstract: "Zonal jets are strong and persistent east-west flows that arise spontaneously in planetary atmospheres and oceans. They are ubiquitous, with key examples including mid-latitude jets in the troposphere, multiple jets in the Antarctic Circumpolar Current and flows on gaseous giant planets such as Jupiter and Saturn. Turbulent flows on a beta-plane lead to the spontaneous formation and equilibration of persistent zonal jets. However, the equilibrated jets are not steady and the nature of the time variability in the equilibrated phase is of interest both because of its relevance to the behaviour of naturally occurring jet systems and for the insights it provides into the dynamical mechanisms operating in these systems. I will discuss aspects of zonal jet variability using insights from a framework of idealized, stochastically-forced models in which eddy-eddy interactions are systematically neglected."
 
 - date: 4 Mar 2025
   speaker: Anand Oza (New Jersey Institute of Technology)
