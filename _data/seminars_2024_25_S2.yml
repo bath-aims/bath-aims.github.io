@@ -42,19 +42,14 @@ Over sufficiently long timescales and lengthscales, this system can be modelled 
   title: Mathematical Modelling of the Evaporation of Sessile Droplets
   abstract: "The evaporation of a sessile droplet is a multifaceted problem of enduring scientific interest that is key to a wide range of everyday and industrial situations, such as protein crystallography, surface patterning, ink-jet printing, and agrochemical spraying of plants. In this talk I shall review some of the recent developments in the study of evaporating droplets, focusing on situations in which relatively simple mathematical models can give new insights into this fascinating multidisciplinary problem, including the competitive evaporation of multiple droplets, the evaporation of a droplet on a non-planar substrate, the effect of the spatial distribution of the local evaporative flux on the deposit left on the substrate by a particle-laden droplet, and the effect of gravity on the evaporation of a sessile droplet. The results presented in this talk are the outcomes of joint work with a large number of collaborators, including Drs Brian Duffy, David Pritchard and Alexander Wray (University of Strathclyde), Professor Khellil Sefiane (University of Edinburgh) and Professor Colin Bain (University of Durham), and past and present research students Gavin Dunn, Jutta Stauber, Feargus Schofield, Hannah-May D’Ambrosio, Laura Mills, David Craig and Henry Sharp, all of whose invaluable contributions are gratefully acknowledged."
 
-- date: 18 Mar 2025
-  speaker: Andrew Wells (Oxford)
-  url: https://www.physics.ox.ac.uk/our-people/wellsa
-  zoom: 1
-  title: TBD
-  abstract: TBD
-
 - date: 25 Mar 2025
   speaker: Duncan Hewitt (Cambridge)
   url: https://www.damtp.cam.ac.uk/person/drh39
   zoom: 1
   title: "Swimming in mud: modelling locomotion in cohesive materials"
-  abstract: TBD
+  abstract: "Numerous natural and industrial materials, ranging from lava and mud to cosmetics, foodstuffs, blood and mucus, exhibit both fluid-like and solid-like behaviour: they can flow like a viscous fluid under sufficient force, but withstand deformation at lower stresses. Clogging and flow localisation in such materials is a generic feature of their mechanics: it underlies the triggering of mudslides, catastrophic liquefaction of mining waste, blood jamming in sickle cell disease, and numerous issues in industrial processing and cleaning. The problem of locomotion through such materials – encountered, for example, by worms moving through soil or sediment – is also controlled by these features of flow and stress localisation.
+  
+In this talk, I will explore some basic fluid mechanical behaviour of idealised viscoplastic materials, illustrating some ways in which channelling and clogging can generically occur. To further illustrate some of these features, I will particularly focus on the problem of undulatory ‘swimming’ through such materials, with the development of a viscoplastic slender-body theory and an explanation of how the rheology allows for a ‘burrowing’ mechanism of locomotion. "
   
 - date: 1 Apr 2025
   speaker: Daphné Lemasquerier (St Andrews)
@@ -74,7 +69,13 @@ Over sufficiently long timescales and lengthscales, this system can be modelled 
   speaker: Ruth Baker (Oxford)
   url: https://www.maths.ox.ac.uk/people/ruth.baker
   zoom: 1
-  title: TBD
-  abstract: TBD
+  title: "Using mathematical models to unravel cell-cell interactions and provide a link between genotype and phenotype."
+  abstract: "In vitro cell biology assays are a cornerstone of biomedical science, from basic research that aims to provide fundamental new understanding of development, disease and repair, through to pharmaceutical applications that include drug discovery and cytotoxicity testing. A widely adopted strategy is to conduct a particular in vitro assay under a range of genetic perturbation conditions and observe how cellular phenotypes change. The key challenge is to then to determine the mechanisms by which the genetic perturbations give rise to the phenotypes. In this context, mathematical modelling has huge potential to overcome the challenges of elucidating mechanisms by providing a rigorous framework to describe the nonlinear interactions between cells and quantify the variations in system parameters following genetic perturbations. However, for models to be successful in teasing apart complex mechanisms from noisy, high-throughput data, we need to calibrate them to quantitative data. I will show how to calibrate a complicated model to data from a high-throughput scratch assay experiment across many gene knockdowns to characterise the relative contributions of local cell density-dependent and -independent mechanisms of cell movement and proliferation. I will show that it is possible characterise functional subgroups, and that density-dependent interactions play a crucial role in wound closure."
   
+- date: 6 May 2025
+  speaker: Andrew Wells (Oxford)
+  url: https://www.physics.ox.ac.uk/our-people/wellsa
+  zoom: 1
+  title: "Phase change and convective localisation in reactive porous mushy layers"
+  abstract: "This talk will consider mathematical and computational models of convective flow, pattern formation, and the asymptotic structure of so-called mushy layers, which are reactive porous materials formed by the solidifcation of binary alloys. The Arctic sea ice is a geophysically important example of such a mushy layer, comprising of ice crystals and salty brine which mixes via convection to drive salt fluxes to the underlying ocean. The internal structure of the mushy-layer evolves during sea ice growth, and we will explore the resulting impact on localisation of convective flows within the ice, including both the onset of convection and its nonlinear development."
 
