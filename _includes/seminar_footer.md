@@ -11,6 +11,3 @@
   permit for Bath University Campus for the day.
 </details>
 
-<details  class="notice--info">
-  <summary>Tips for giving talks </summary>{% include seminar_advice.md %}
-</details>
