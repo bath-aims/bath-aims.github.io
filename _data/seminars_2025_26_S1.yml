@@ -2,8 +2,8 @@
   speaker: Chris Howland (University College Dublin)
   url: https://chowland.github.io/
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Convection and phase change in environmental flows
+  abstract: "Many processes in the climate system can be related to the coupling of fluid convection and thermodynamic phase changes, from ice-ocean interactions in polar regions to the formation and evolution of clouds in the atmosphere. In this talk, I will discuss some recent work aimed at understanding the fundamental interactions between convection and phase changes in simple systems. Firstly, motivated by the flows beside marine-terminating glaciers, I will describe the transition between buoyancy-driven and shear-driven boundary layers in turbulent mixed convection. Secondly, I will outline a newly-developed immersed boundary technique for simulating melting objects in turbulent flows, which reveals the subtle effects that the free motion of melting ice objects can introduce. Finally (time permitting), I will present some results from a system where phase changes drive the fluid motion - the simplified system of moist convection known as Rainy-Bénard."
 
 - date: 21 Oct 2025
   speaker: Weida Liao (University of Cambridge)
@@ -15,6 +15,27 @@
 - date: 28 Oct 2025
   speaker: Onno Bokhove (University of Leeds)
   url: https://eps.leeds.ac.uk/maths/staff/4009/professor-onno-bokhove
+  zoom: 1
+  title: A graphical cost-effectiveness tool for visualising and assessing flood-mitigation plans
+  abstract: TBC
+
+- date: 4 Nov 2025
+  speaker: Ellen Luckins (University of Warwick)
+  url: https://warwick.ac.uk/fac/sci/maths/people/staff/luckins/
+  zoom: 1
+  title: TBC
+  abstract: TBC
+
+- date: 11 Nov 2025
+  speaker: Mark Blyth (University of East Anglia)
+  url: https://research-portal.uea.ac.uk/en/persons/mark-blyth
+  zoom: 1
+  title: TBC
+  abstract: TBC
+
+- date: 18 Nov 2025
+  speaker: Peter Stewart (University of Glasgow)
+  url: https://www.gla.ac.uk/schools/mathematicsstatistics/staff/peterstewart/
   zoom: 1
   title: TBC
   abstract: TBC
