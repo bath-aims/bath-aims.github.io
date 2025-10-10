@@ -9,8 +9,12 @@
   speaker: Weida Liao (University of Cambridge)
   url: https://www.maths.cam.ac.uk/person/wl354
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: "Flows inside cells: From natural cytoplasmic streaming to microfluidic systems"
+  abstract: "Cytoplasmic streaming, the persistent flow of fluid inside a cell, induces intracellular transport, which plays a key role in fundamental biological processes. In this talk, we will discuss two types of cytoplasmic flows inside living cells. 
+ 
+First, we consider naturally occurring cytoplasmic flows during cell division. In meiosis II mouse oocytes (developing egg cells) awaiting fertilisation, the spindle, which is the protein structure responsible for dividing genetic material in a cell, must maintain its position near the cell cortex (the thin actin network bound to the cell membrane) for many hours. However, the cytoplasmic streaming that accompanies this stable positioning would intuitively appear to destabilise the spindle position. Through a combination of numerical and analytical modelling, we reveal a hydrodynamic mechanism for stable spindle positioning beneath the cortical cap.
+ 
+In the second half of the talk, we examine artificial cytoplasmic streaming. Recent experiments in cell biology have probed the impact of artificially induced intracellular flows in the spatiotemporal organisation of cells. In these experiments, mild heating via focused infrared light from a laser induces long-range, thermoviscous flow of the cytoplasm inside a living cell, a method popularised in cell biology as FLUCS (focused-light-induced cytoplasmic streaming). We present an analytical, theoretical model describing the fluid flow induced by the laser. Our quantitative findings show excellent agreement with recent experimental results and will enable the design of new controlled experiments to establish the physiological role of physical transport processes inside cells."
 
 - date: 28 Oct 2025
   speaker: Onno Bokhove (University of Leeds)
