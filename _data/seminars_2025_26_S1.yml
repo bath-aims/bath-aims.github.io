@@ -21,21 +21,21 @@ In the second half of the talk, we examine artificial cytoplasmic streaming. Rec
   url: https://eps.leeds.ac.uk/maths/staff/4009/professor-onno-bokhove
   zoom: 1
   title: A graphical cost-effectiveness tool for visualising and assessing flood-mitigation plans
-  abstract: TBC
+  abstract: "The following challenge was raised by an agency: can one apply mathematics to flood mitigation with tools that are comprehensible to decision-makers. To address the challenge a graphical cost-effectiveness tool was created. In that tool, square lakes visualise river-flood mitigation scenarios that aim to prevent the damage caused by a design flood with a specified target return period. Based on measured or calculated hydrograph data at a critical river location, each square lake of 2m-depth represents the flood-excess volume that needs to be mitigated to zero to eliminate damage, with each measure filling a fraction of the square-lake, and costs are overlaid. Various scenarios can thus be compared graphically. I will show that the tool has been used to design flood-mitigation scenarios when complicated engineering calculations are unavailable, as well as to visualise and assess these when they are available. The former has been done in Slovenia and the latter in France. I will discuss that the tool, with its intended simplicity and as a byproduct, has also been able to reveal inconsistencies or errors in public flood-mitigation plans."
 
 - date: 4 Nov 2025
   speaker: Ellen Luckins (University of Warwick)
   url: https://warwick.ac.uk/fac/sci/maths/people/staff/luckins/
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: "Designing heat batteries: homogenised models for composite phase-change materials"
+  abstract: "Latent heat batteries are a developing green-energy technology where heat is stored and released through melting and freezing a phase-change material (PCM) with high latent heat. However, the low thermal conductivity of PCMs limits the charging and discharging rates of heat batteries. A common solution involves using composite materials, where part of the PCM is replaced with a high- conductivity copper mesh. Designing such devices efficiently requires accurate mathematical models, but existing models fail to capture the multiscale nature of these composites and thus cannot reliably predict phase-change dynamics. We use homogenisation analysis to derive two reduced models for heat conduction and phase change in composite PCMs, corresponding to two asymptotic limits: thin and thick copper wires. In the thin-wire limit, we obtain a sharp-front model with a phase-change interface at the macroscale. In the thick-wire limit, we derive a mush model, where phase change occurs simultaneously throughout the domain. The effective thermal conductivity can be computed for arbitrary microscale geometries, enabling mesh-microstructure optimisation. Our results show that phase change is fastest in the mush regime, making our model (structurally distinct to those in the literature) much more accurate for heat battery modelling and design."
 
 - date: 11 Nov 2025
   speaker: Mark Blyth (University of East Anglia)
   url: https://research-portal.uea.ac.uk/en/persons/mark-blyth
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: "Kuzmak’s method – tour de force or tour de farce?"
+  abstract: "In 1959 Kuzmak introduced a new method for constructing asymptotic solutions to ordinary differential equations that describe nonlinear oscillators. The approach is effectively a nonlinear variant of the WKB method. Kuzmak's method was later refined by Luke (1966) and can be viewed as a precursor to Whitham Modulation Theory for nonlinear waves. The method appears to be not so well known. In this talk we will review Kuzmak's method by showing how it can be applied to the damped simple pendulum problem.  As is well known, with no damping the problem can be solved exactly using elliptic functions, and the oscillation period is seen to depend on the amplitude. With damping active, the basic asymptotic approach is one of multiple scales, with the fast time scale describing the oscillations and the slow time scale describing the gradual diminution in amplitude as energy is slowly lost. In a key step, the fast time scale is chosen so as to fix the oscillation period, and this allows a bounded solution to be constructed. We show how the key elements of the method work, providing sufficient details to fully construct the leading order solution."
 
 - date: 18 Nov 2025
   speaker: Peter Stewart (University of Glasgow)
