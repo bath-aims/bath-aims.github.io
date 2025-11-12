@@ -41,8 +41,8 @@ In the second half of the talk, we examine artificial cytoplasmic streaming. Rec
   speaker: Peter Stewart (University of Glasgow)
   url: https://www.gla.ac.uk/schools/mathematicsstatistics/staff/peterstewart/
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: "Meta-material failure: insights from fracture of gas-liquid foams"
+  abstract: "Meta-materials are engineered composites with unique properties not found in nature. Onset and propagation of failure in such materials is dictated strongly by their unique geometry. Gas-liquid foams are a unusually accessible example of a meta-material formed from several distinct structural elements which deform in different manners under an applied load. In this talk we characterise a brittle fracture mode of gas-liquid foam using a combination of experiments and computational and theoretical modelling. In particular, we propose a new continuum model for a fracturing foam derived directly from a discrete description of the underlying structural elements. We demonstrate how in one limit this model is analogous to the classical model of fracture in linearly elastic material, using this as a test system to validate an entirely new method for solving such linear fracture systems. However, we further show that in the experimental limit the contrasting motions of the structural elements can lead to interesting new features of propagating fracture, including a velocity gap and modification of the stress-singularity at the crack tip."
 
 - date: 25 Nov 2025
   speaker: Sam Crew (National Tsing Hua University)
