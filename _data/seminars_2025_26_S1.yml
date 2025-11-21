@@ -48,12 +48,12 @@ In the second half of the talk, we examine artificial cytoplasmic streaming. Rec
   speaker: Sam Crew (National Tsing Hua University)
   url: https://www.samuelcrew.com/
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: Quantum path signatures
+  abstract: "In this talk I give a gentle introduction to quantum machine learning, in particular quantum kernels and feature maps. I will then discuss my recent work combining tools from random matrix theory and path signatures to define quantum feature maps and kernels for time series data."
 
 - date: 02 Dec 2025
   speaker: Neil Lewis (University of Exeter)
   url: https://experts.exeter.ac.uk/39065-neil-lewis
   zoom: 1
-  title: TBC
-  abstract: TBC
+  title: "Rotating Spherical Shell Convection Driven by Internal Heating and Cooling"
+  abstract: "The bulk properties of convection in stellar and giant planet interiors are often assumed to be independent of the molecular diffusivities, which are very small. By contrast, simulations of this process in rotating, spherical shells, which are typically driven by conductive boundary heat fluxes, generally yield results that depend on the diffusivity. This makes it challenging to extrapolate these simulation results to real objects. In this talk, I will present results from new simulations of rotating, spherical shell convection that are driven using an alternative approach, namely by applying heating and cooling internally within the fluid. I will show that this set-up yields diffusivity-independent scaling for the convective heat transport as a function of rotation rate, and additionally diffusion-free behaviour for the convective and zonal flow velocities in cases where rotation is not dominant. The result that many aspects of our idealised simulations are diffusion-free has promising implications for the development of realistic stellar and giant planet convection models that can access diffusion-free regimes. I will conclude my talk with a discussion of some directions for future research, focusing on the potential utility of this technique for developing coupled models of interior convection and weather layer dynamics on gas giant planets. I will also introduce a new, separate project that aims to study the dynamics of polar vortices in Jupiter’s weather layer."
