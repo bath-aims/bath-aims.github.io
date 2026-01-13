@@ -1,0 +1,64 @@
+- date: 03 Feb 2026
+  speaker: Alexander Wray (University of Strathclyde)
+  url: https://www.strath.ac.uk/staff/wrayalexanderdr/
+  zoom: 1
+  title: "Electrostatic control of the Navier-Stokes equations"
+  abstract: "TBD"
+
+- date: 10 Feb 2026
+  speaker: Susana Gomes (University of Warwick)
+  url: https://warwick.ac.uk/fac/sci/maths/people/staff/gomes/
+  zoom: 1
+  title: "Modelling and control of opinion dynamics on evolving networks"
+  abstract: "TBD"
+
+- date: 24 Feb 2026
+  speaker: Marie-Therese Wolfram (University of Warwick)
+  url: https://warwick.ac.uk/fac/sci/maths/people/staff/wolfram/
+  zoom: 1
+  title: "TBD"
+  abstract: "TBD"
+
+- date: 3 Mar 2026
+  speaker: Alexandra Tzella (University of Birmingham)
+  url: https://www.birmingham.ac.uk/staff/profiles/maths/tzella-alexandra
+  zoom: 1
+  title: "Boundary conditions for active Brownian particles"
+  abstract: "TBD"
+
+- date: 10 Mar 2026
+  speaker: Draga Pihler-Puzovic (University of Manchester)
+  url: https://personalpages.manchester.ac.uk/staff/draga.pihler-puzovic/
+  zoom: 1
+  title: "Exploring instabilities in slender structure: what does soft microfluidics have to do with \"soda forming\"?"
+  abstract: "The beauty of mechanics is that it work on multiple scales and often links disparate phenomena which appear to have little in common with each other. In this talks, we explore two types of buckling in thin cylinder-like structures, that of interest in fields as diverse as bacterial growth and rocket launching. First, we show the effect of inflation on the swelling-induced wrinkling of thin elastic membranes. Using a combination of experiments and modelling, we demonstrate that such inflation can be used as a control mechanism in the manufacture of patterned microchannels in lab-on-chip applications. Next, we study compression of a beverage can, mostly filled with a liquid. When uniaxially compressed empty cylinders buckle, they typically form periodic structures that break both axial and radial symmetry. By contrast, our liquid-filled cylinders buckle axisymmetrically. The resulting ring buckles are localised and appear sequentially, eventually filling the entire can surface. The final periodic pattern has a predictable wavelength that scales with the shell thickness and radius, following the same scaling observed in the microfluidics channels. However, the fine details of these pattern formation phenomena are driven by very different nonlinear dynamics."
+
+- date: 17 Mar 2026
+  speaker: Calum Skene (University of Edinburgh)
+  url: https://www.ph.ed.ac.uk/people/calum-skene
+  zoom: 1
+  title: "TBD"
+  abstract: "TBD"
+
+- date: 24 Mar 2026
+  speaker: Debasish Das (University of Strathclyde)
+  url: https://www.strath.ac.uk/staff/dasdebasishdr/
+  zoom: 1
+  title: "Effect of electrohydrodynamic interactions and surfactants on drop dynamics subject to electric fields."
+  abstract: "When a leaky dielectric drop is suspended in another weakly conducting fluid and subjected to a uniform DC electric field, it polarizes, generating tangential electric stresses that drive fluid motion inside and outside the drop. The presence of a second drop introduces long-range electrohydrodynamic (EHD) interactions via dielectrophoretic forces and induced flows, fundamentally altering the dynamics. In this work, I present a nonlinear three-dimensional small-deformation theory for a pair of identical, widely separated, nearly spherical leaky dielectric drops. Valid in the regime of high surface tension, high viscosity ratio, and large separation, the model is the first within the Taylor–Melcher framework to incorporate both transient charge relaxation and charge convection. It captures the spontaneous symmetry-breaking transition to Quincke rotation observed in experiments in strong fields. The model recovers prior results for isolated drops and interacting solid spheres in appropriate limits and agrees quantitatively with previous experiments. It also captures the hysteresis in the onset of Quincke rotation for single drops and shows that, for two drops, the transition is qualitatively modified by EHD interactions and straining flows unique to drops. I will also present recent results on how surfactants can modify drop dynamics in electric fields and affect the supercritical pitchfork bifurcation that leads to Quincke rotation."
+
+- date: 14 Apr 2026
+  speaker: James Sprittles (University of Warwick)
+  url: https://warwick.ac.uk/fac/sci/maths/people/staff/james_sprittles/
+  zoom: 1
+  title: "TBD"
+  abstract: "TBD"
+
+- date: 28 Apr 2026
+  speaker: Igor Chernayavsky (University of Manchester)
+  url: https://research.manchester.ac.uk/en/persons/igor.chernyavsky/
+  zoom: 1
+  title: "TBD"
+  abstract: "TBD"
+
+
