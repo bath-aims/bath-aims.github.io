@@ -16,15 +16,15 @@
   speaker: Marie-Therese Wolfram (University of Warwick)
   url: https://warwick.ac.uk/fac/sci/maths/people/staff/wolfram/
   zoom: 1
-  title: "TBD"
-  abstract: "TBD"
+  title: "Particles in Interaction: Dynamics, Sampling and Inverse Problems"
+  abstract: "Interacting particle systems provide a powerful and unifying framework for understanding collective phenomena across science and engineering. In this talk, I discuss three problems where particles, whether physical agents or abstract samples, interact through simple local rules that give rise to rich macroscopic behaviour. I will begin with ensemble-based sampling, in which a collection of interacting particles collaboratively explores the posterior distribution of interest. By coupling ensemble dynamics with Gaussian process surrogates, the method provides an efficient, derivative-free approach to Bayesian inference. I will then turn to pedestrian dynamics, where I consider two questions. First, how do boundary conditions and geometry influence macroscopic crowd behaviour and the emergence of collective flow patterns? Second, how can microscopic observations of individual motion be connected to the respective mean-field models? In particular, I will describe how microscopic data be used to learn the fundamental diagram governing crowd dynamics. Finally, I will briefly touch on inverse optimal transport, asking whether one can recover the underlying cost function from observed behaviour, and outline some of the exciting challenges this problem presents."
 
 - date: 3 Mar 2026
   speaker: Alexandra Tzella (University of Birmingham)
   url: https://www.birmingham.ac.uk/staff/profiles/maths/tzella-alexandra
   zoom: 1
   title: "Boundary conditions for active Brownian particles"
-  abstract: "TBD"
+  abstract: "We consider the transport of active particles inside a channel domain. These are treated using the Active Brownian Particle model (ABP), where particles move forward at constant speed but in a randomly-varying direction. We examine their accumulation near the boundary as the singular limit of a better-behaved model that includes small spatial diffusion. We present matched asymptotic approximations that describe their reduced dynamics at long times. In the reduced dynamics, the probability density for the particle position has a singular component localised on the boundary which is coupled in two-way fashion to to the smooth interior component. The results are illustrated by a number of numerical simulations."
 
 - date: 10 Mar 2026
   speaker: Draga Pihler-Puzovic (University of Manchester)
