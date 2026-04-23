@@ -37,14 +37,39 @@
   speaker: James Sprittles (University of Warwick)
   url: https://warwick.ac.uk/fac/sci/maths/people/staff/james_sprittles/
   zoom: 1
-  title: "TBD"
-  abstract: "TBD"
+  title: "Droplet dynamics in the presence of gas nanofilms: merging, wetting, bouncing & levitation"
+  abstract: "Recent advances in experimental techniques have enabled remarkable discoveries and insight into how the dynamics of thin gas/vapour films can profoundly influence the behaviour of liquid droplets: drops impacting solids can “skate on a film of air” [1], so that they can “bounce off walls” [2,3]; reductions in ambient gas pressure can suppress splashing [4] and initiate the merging of colliding droplets [5]; and evaporating droplets can levitate on their own vapour film [7] (the Leidenfrost effect). Despite these advances, the precise physical mechanisms governing these phenomena remains a topic of debate.  A theoretical approach would shed light on these issues, but due to the strongly multiscale nature of these processes brute force computation is infeasible.  Furthermore, when films reach the scale of the mean free path in the gas (i.e. ~100nm) and below, new nanoscale physics appears that renders the classical Navier-Stokes paradigm inaccurate.
+
+
+In this talk, I will overview our development of efficient computational models for the aforementioned droplet dynamics in the presence of gas nanofilms into which gas-kinetic, van der Waals and/or evaporative effects can be easily incorporated [8,9].  It will be shown that these models can reproduce experimental observations – for example, the threshold between bouncing and wetting for drop impact on a solid is reproduced to within 5%, whilst a model excluding either gas-kinetic or van der Waals effects is ~170% off!  These models will then be exploited to make new experimentally-verifiable predictions, such as how we expect drops to behave in reduced pressure environments.  Finally, I will conclude with some exciting directions for future work.
+"
 
 - date: 28 Apr 2026
   speaker: Igor Chernayavsky (University of Manchester)
   url: https://research.manchester.ac.uk/en/persons/igor.chernyavsky/
   zoom: 1
-  title: "TBD"
-  abstract: "TBD"
+  title: "Flow and transport in the human placenta and umbilical cord: a story with a twist"
+  abstract: "
+The human placenta is one of the most complex and unique organs. It is a crucial life-support system that not only nourishes growing fetuses but also determines their lifelong health. The placenta is an exchange organ with an intricate disordered micro-porous structure that packs a large surface area (~10 m^2) into a relatively thin disk, connected to the baby via a highly twisted umbilical cord. The talk will summarise recent progress in hyper-multiscale 3D imaging (spanning the range of µm to cm) [1] and associated image-based mathematical modelling of placental transport [2]. The models explore the physics of flow- and diffusion-limited solute exchange and demonstrate a certain universality of upscaled approximations for a wide class of transported solutes. Finally, we will discuss the surprising role of the helical configuration of the umbilical cord in modulating heat exchange in diverse placental mammals [3], and if time allows, touch on moving beyond continuum models of transport [4].
 
+
+[1] Tun WM, et al. (2021) J R Soc Interface 18:20210140 (doi.org/10.1098/rsif.2021.0140).
+
+
+[2] Erlich A, et al. (2019) Sci Adv 5:eaav6326 (doi.org/10.1126/sciadv.aav6326).
+
+
+[3] Wan T, et al. (2025) J R Soc Interface 22:20250148  (doi.org/10.1098/rsif.2025.0148).
+
+
+[4] Chen Q, et al. (2023) Soft Matter 19:5261 (doi.org/10.1039/D3SM00208J).
+"
+
+- date: 5 May 2026
+  speaker: Tiina Roose (University of Southampton)
+  url: https://www.tiinaroose.com/
+  zoom: 1
+  title: "Image based modeling in biology"
+  abstract: "We rely on soil to support the crops on which we depend. Less obviously we also rely on soil for a host of 'free services' from which we benefit. For example, soil buffers the hydrological system greatly reducing the risk of flooding after heavy rain; soil contains very large quantities of carbon, which would otherwise be released into the atmosphere where it would contribute to climate change. Given its importance it is not surprising that soil, especially its interaction with plant roots, has been a focus of many researchers. However the complex and opaque nature of soil has always made it a difficult medium to study. In this talk I will show how to build a predictive model of plant-soil interaction that is useful on multiple spatial and temporal scale enabling us to find in silico answers to many practical questions facing farmers, agronomists and ecosystem service providers. I will also briefly explain the application of these techniques to geotechnical and other engineering problems. 
+"
 
