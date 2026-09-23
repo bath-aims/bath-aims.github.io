@@ -6,7 +6,7 @@ sidebar:
 permalink: /research/
 classes: wide 
 ---
-We are very active in each of the following research topics - click for further descriptions.
+We are active in each of the following research topics - click for further descriptions.
 
 {% assign sorted = site.research | sort: 'title'  %}
 

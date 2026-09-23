@@ -1,0 +1,59 @@
+- date: 29 Sep 2026
+  speaker: Rahil Valani (University of Oxford)
+  url: https://www.physics.ox.ac.uk/our-people/valani
+  zoom: 1
+  title: "Superwalking droplets: active particles with a memory"
+  abstract: "
+  Active particles come in many forms, from bacteria, cells and algae to synthetic colloids and microrobots, all converting energy into directed motion. Their dynamics become particularly interesting when their motion modifies the surrounding environment, which in turn acts back on them. What happens when this feedback gives an active particle a memory of its past?
+
+  In this talk, I will explore this question using superwalking droplets which are millimetre-scale liquid droplets that self-propel across a vertically vibrated fluid bath through interaction with the waves they generate. The feedback between droplet and wave gives these active wave–particle entities an effective memory and produces surprisingly rich dynamics. I will discuss how this memory shapes individual locomotion, including steady walking and stop-and-go motion, before turning to wave-mediated interactions, collective behaviour, and emergent clusters formed by very large superwalkers. Finally, I will show how reduced models of memory-driven wave–particle motion lead to low-dimensional dynamical systems related to the Lorenz equations, providing a bridge between fluid mechanics, active matter and nonlinear dynamics."
+
+- date: 6 Oct 2026
+  speaker: Cameron Hall (University of Bristol)
+  url: https://www.bristol.ac.uk/people/person/Cameron-Hall-09d17dde-702b-4bd2-aeed-a6e34cacd5f9/
+  zoom: 1
+  title: ""
+  abstract: ""
+
+- date: 13 Oct 2026
+  speaker: Ed Brambley (University of Warwick)
+  url: https://ejbrambley.warwick.ac.uk/
+  zoom: 1
+  title: "Mathematical Modelling of Industrial Metal Forming"
+  abstract: "Metal forming involves permanently deforming metal into a required shape.  Many forms of metal forming are used in industry: rolling, stamping, pressing, drawing, etc; for example, 99% of steel produced globally is first rolled before any subsequent processing.  Most theoretical studies of metal forming use Finite Elements, which is not fast enough for real-time control of metal forming processes, and gives little extra insight.  As an example of how little is known, it is currently unknown whether a sheet of metal that is squashed between a large and a small roller should curve towards the larger roller, or towards the smaller roller.  In this talk, I will give a brief overview of metal forming, and then some progress my group have been making on some very simplified models of cold sheet rolling in particular.  The mathematics involved will include some modelling and asymptotics (including multiple scales), and should be accessible to a general applied mathematics audience."
+
+- date: 20 Oct 2026
+  speaker: "PhD Presentations"
+  url: ""
+  zoom: 1
+  title: ""
+  abstract: ""
+
+- date: 27 Oct 2026
+  speaker: Ross Woods (University of Bristol)
+  url: https://www.bristol.ac.uk/people/person/Ross-Woods-569069d3-7efd-4f86-b0d2-97097dfce51d/
+  zoom: 1
+  title: ""
+  abstract: ""
+
+- date: 3 Nov 2026
+  speaker: Elizabeth Lewis (University of Manchester)
+  url: https://research.manchester.ac.uk/en/persons/elizabeth-lewis-2/
+  zoom: 1
+  title: ""
+  abstract: ""
+
+- date: 10 Nov 2026
+  speaker: Simon Mathias (Durham University)
+  url: https://www.durham.ac.uk/staff/s-a-mathias/
+  zoom: 1
+  title: ""
+  abstract: ""
+
+- date: 17 Nov 2026
+  speaker: David Sibley (Loughborough University)
+  url: https://www.lboro.ac.uk/departments/maths/staff/david-sibley/
+  zoom: 1
+  title: ""
+  abstract: ""
+
