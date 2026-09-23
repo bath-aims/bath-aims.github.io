@@ -1,10 +1,16 @@
 ---
 layout: splash
-excerpt: "Research group<br><br>Department of Mathematical Sciences<br>University of Bath<br><br><br>"
+excerpt: "<span style='color: #000; text-shadow: none;'>Research group<br><br>Department of Mathematical Sciences<br>University of Bath<br><br><br></span>"
 header:
-  overlay_image: "/assets/pics/waterwave.png"
+  overlay_image: "/assets/pics/droplets.png"
   actions:
-    - label: "Upcoming Seminars"
+    - label: "<span style='color: #000; text-shadow: none;'>Upcoming Seminars</span>"
       url: /events/current_seminars
-title: "Applied and Interdisciplinary Mathematics"
+title: "<span style='color: #000; text-shadow: none;'>Applied and Interdisciplinary Mathematics (AIMS)</span>"
 ---
+
+<style>
+  .page__hero--overlay .btn {
+    border-color: #000;
+  }
+</style>
