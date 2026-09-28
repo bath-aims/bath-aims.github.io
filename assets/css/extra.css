@@ -1,4 +1,4 @@
-/* set-up for double columns */
+/* Member card layout */
 .column1 {
   float: left;
   width: 30%;
@@ -17,18 +17,15 @@
   display: table;
 }
 
-ul#two_col{
+ul.member-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 10px;
   list-style-type: none;
   padding: 2px;
-  column-count: 2;
   margin-top: 0;
-  -webkit-columns: 2;
-  -moz-columns: 2;
-  
 }
-ul#two_col > li {
-  display: inline-block;
-  width: 100%;
+ul.member-grid > li {
   border-top: 1px;
 }
 
@@ -42,11 +39,8 @@ padding-bottom:10px;!important
 #two_col_img {  width: 100%; border-radius: 5%;} 
 
 @media screen and (max-width: 700px) {
-  ul#two_col {
-    list-style-type: none;
+  ul.member-grid {
+    grid-template-columns: 1fr;
     padding: 1px;
-    columns: 1;
-    -webkit-columns: 1;
-    -moz-columns: 1;  
   }
 }

@@ -1,14 +1,17 @@
 ---
-title: Staff
+title: Full Members
 layout: single
 sidebar: 
   nav: "people"
 permalink: /people/
 classes: wide
 ---
-<ul id="two_col">
+
+<ul class="member-grid">
   {% assign sorted = site.members | sort: 'last'  %}
   {% for member in sorted %}
+    {% unless member.listed == false %}
+    {% unless member.membership == "associate" %}
     <li >
       <div class="row">
         <div class="column1">
@@ -21,17 +24,19 @@ classes: wide
        </div>
       </div>
     </li>
+    {% endunless %}
+    {% endunless %}
   {% endfor %}
 </ul>
- 
 
-# Research staff
+# Associate Members
 
-{% assign sorted2 = site.members2 | sort: 'last'  %}
-<ul id="two_col">
-  {% for member in sorted2 %}
+<ul class="member-grid">
+  {% for member in sorted %}
+    {% unless member.listed == false %}
+    {% if member.membership == "associate" %}
     <li >
-        <div class="row">
+      <div class="row">
         <div class="column1">
            <a href="{{ member.homepage }}">
            <img  src="/assets/pics/{{member.pic}} " id="two_col_img"/></a>
@@ -42,6 +47,7 @@ classes: wide
        </div>
       </div>
     </li>
+    {% endif %}
+    {% endunless %}
   {% endfor %}
-  
 </ul>
