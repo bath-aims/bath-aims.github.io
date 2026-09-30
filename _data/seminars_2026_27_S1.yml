@@ -12,8 +12,8 @@
   speaker: Cameron Hall (University of Bristol)
   url: https://www.bristol.ac.uk/people/person/Cameron-Hall-09d17dde-702b-4bd2-aeed-a6e34cacd5f9/
   zoom: 1
-  title: ""
-  abstract: ""
+  title: "Why core-surface battery models fail and how to fix them"
+  abstract: "Thermal models are essential for the design, management, and control of rechargeable batteries. The simplest approach to thermal battery modelling is to assume that an entire cell is at the same temperature, leading to a so-called “lumped” model of battery temperature. In practice, the interior of a battery will heat up more than its surface because heat is generated throughout the battery but cooling can only occur at the battery surface. This led to the development of core-surface battery models where the core temperature and the surface temperature were treated as separate variables. Unfortunately, the most widely-used core-surface models lose accuracy as thermal gradients increase and they are prone to overfitting, meaning that models calibrated in one setting are hard to translate to other settings. In this talk, I will describe recent work where we explore fundamental problems with the approach used to develop core-surface models and show how an alternative approach based on a two-mode Galerkin approximation can lead to greatly-improved accuracy without increasing model complexity."
 
 - date: 13 Oct 2026
   speaker: Ed Brambley (University of Warwick)
