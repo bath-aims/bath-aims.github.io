@@ -15,7 +15,6 @@ If you would like to remove yourself from the mailing list, see <a href="http://
     
 </details>
 
-<!--
 <details class="notice--info" >
   <summary>Zoom meeting links</summary>
     <h2>Join Zoom Meeting</h2>
@@ -24,4 +23,3 @@ If you would like to remove yourself from the mailing list, see <a href="http://
     <p><strong>Meeting ID:</strong> 997 5376 2534</p>
     <p><strong>Passcode:</strong> 411754</p>
 </details>
--->
