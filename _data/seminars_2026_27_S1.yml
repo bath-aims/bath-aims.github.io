@@ -23,25 +23,29 @@
   abstract: "Metal forming involves permanently deforming metal into a required shape.  Many forms of metal forming are used in industry: rolling, stamping, pressing, drawing, etc; for example, 99% of steel produced globally is first rolled before any subsequent processing.  Most theoretical studies of metal forming use Finite Elements, which is not fast enough for real-time control of metal forming processes, and gives little extra insight.  As an example of how little is known, it is currently unknown whether a sheet of metal that is squashed between a large and a small roller should curve towards the larger roller, or towards the smaller roller.  In this talk, I will give a brief overview of metal forming, and then some progress my group have been making on some very simplified models of cold sheet rolling in particular.  The mathematics involved will include some modelling and asymptotics (including multiple scales), and should be accessible to a general applied mathematics audience."
 
 - date: 20 Oct 2026
-  speaker: "PhD Presentations"
+  speaker: "Marina Costa Merch Dos Santos, Amy Darroch, Shiyi Ding (University of Bath)"
   url: ""
   zoom: 1
-  title: ""
+  title: "PhD Student Presentations"
   abstract: ""
 
 - date: 27 Oct 2026
   speaker: Ross Woods (University of Bristol)
   url: https://www.bristol.ac.uk/people/person/Ross-Woods-569069d3-7efd-4f86-b0d2-97097dfce51d/
   zoom: 1
-  title: ""
-  abstract: ""
+  title: "A Stochastic Model for Understanding How Climate Affects Snowpacks"
+  abstract: "Melting snow is a key source of water for more than 2 billion people. Changes in climate are already causing changes in the amount and timing of snowmelt, and substantial further changes are expected in future. Communicating why these changes are happening, and why they aren’t the same everywhere, will help water managers to navigate these changes. At present, we have scientific capability to calculate the expected changes in snow, but not to explain conceptually why the effects vary from place to place. The difficulty arises because snowpack dynamics are driven by nonlinear (but elementary) interactions between weather elements such as temperature and precipitation, at multiple timescales. In this talk I will (i) show some typical snow and climate data (ii) present a deterministic snowpack model and explain its strengths and weaknesses (iii) propose a non-stationary stochastic model for the snowpack, and show some preliminary results."
 
 - date: 3 Nov 2026
   speaker: Elizabeth Lewis (University of Manchester)
   url: https://research.manchester.ac.uk/en/persons/elizabeth-lewis-2/
   zoom: 1
-  title: ""
-  abstract: ""
+  title: "Integrated water management: where can mathematics improve operational hydrology?"
+  abstract: "Water management is a substantial practical challenge. Because rain falls everywhere, water can be managed anywhere, and both the complexity of the system and the number of possible interventions are very large. Producing evidenced management plans is therefore difficult, and we rely on models and data to lay out evidence in a structured way, explore options, and support decisions with critical scrutiny. In practice, water is managed at different scales and in separate silos: in England, surface water flooding is the responsibility of local authorities, river flooding of the Environment Agency, water supply of regional water companies, and water quality of several organisations. These elements are, however, parts of one interacting system, and implementation of interventions, and the funding of them, could be considerably more efficient if their benefits were assessed together.
+
+Managing water in an integrated way has long been an ambition, but technical and logistical barriers have so far limited progress. There is now both political momentum, through the government's water reform programme, and technological capability for integrating evidence systems. We have been working with the Greater Manchester Integrated Water Management team, who are leading this approach, to design and develop the informatics infrastructure that supports it. This seminar presents that work: mapping the complex system of water processes, establishing a data catalogue, reviewing evidence on which important processes are missing from current modelling frameworks, and designing an integrated modelling system, including where AI can usefully be applied.
+
+The breadth of this work provides a basis for discussing where mathematics could improve operational hydrology. Topics will include formulating well-posed questions, scenario testing and optioneering, information theory and its relationship to data availability, model selection and benchmarking, sensitivity analysis, calibration and validation strategies, and the quantification and reduction of uncertainty."
 
 - date: 10 Nov 2026
   speaker: Simon Mathias (Durham University)
