@@ -23,11 +23,22 @@
   abstract: "Metal forming involves permanently deforming metal into a required shape.  Many forms of metal forming are used in industry: rolling, stamping, pressing, drawing, etc; for example, 99% of steel produced globally is first rolled before any subsequent processing.  Most theoretical studies of metal forming use Finite Elements, which is not fast enough for real-time control of metal forming processes, and gives little extra insight.  As an example of how little is known, it is currently unknown whether a sheet of metal that is squashed between a large and a small roller should curve towards the larger roller, or towards the smaller roller.  In this talk, I will give a brief overview of metal forming, and then some progress my group have been making on some very simplified models of cold sheet rolling in particular.  The mathematics involved will include some modelling and asymptotics (including multiple scales), and should be accessible to a general applied mathematics audience."
 
 - date: 20 Oct 2026
-  speaker: "Marina Costa Merch Dos Santos, Amy Darroch, Shiyi Ding (University of Bath)"
+  speaker: "Marina Costa Merch Dos Santos, Shiyi Ding, Amy Darroch (University of Bath)"
   url: ""
   zoom: 1
   title: "PhD Student Presentations"
-  abstract: ""
+  abstract: "
+  Speaker: Marina Costa Merch Dos Santos (University of Brasilia)
+Title: Bifurcations in the Interaction of Two Dipoles Under the Presence of an External Magnetic Field
+Abstract: Consider two magnetic dipoles fixed in the plane, free to spin, separated by a distance r, subjected to a uniform external magnetic field applied with a certain orientation. This system is a non-linear dynamical system and the goal of this work is to determine and classify its equilibrium points and their bifurcations caused by changes of the applied field.
+
+Speaker: Shiyi Ding
+Title: Introduction to Spatial Stream-Network Models (SSN): What physical mechanisms can be incorporated? 
+Abstract: Analysing transport processes in stream networks is challenging due to latent spatial relationships and non-Euclidean hydrologic distances. In this talk, Shiyi will introduce Spatial Stream-Network (SSN) models, which model spatial covariates by accounting for network connectivity and hydrologic metrics. The key to applying this model to her research on bacterial transport is to find the theoretical links between the statistical approach and physical mechanisms governing the growth and die-off of bacteria, which have not been addressed in the current model.
+
+Speaker: Amy Darroch
+Title: A mathematical model for age-related macular degeneration
+Abstract: Age-related macular degeneration (AMD) is the leading cause of irreversible sight loss in the UK. One of the earliest signs of the disease is the clogging of Bruch’s membrane, a thin porous layer beneath the retina, by lipoproteins and metabolic waste. Over time these deposits accumulate into drusen, which are a key clinical marker of AMD. We have developed a simple model for the clogging of Bruch’s membrane that couples fluid flow through the membrane with the advection and deposition of particles. However, this model treats the membrane as having a fixed thickness, whereas in reality Bruch’s membrane thickens with age as material builds up within it. In this talk I will present two open problems. First, how should we allow the membrane to expand as it clogs? Second, how can we extend the model to capture drusen formation, describing the transition from material trapped within the membrane to deposits growing beneath the retina?"
 
 - date: 27 Oct 2026
   speaker: Ross Woods (University of Bristol)
@@ -51,15 +62,17 @@ The breadth of this work provides a basis for discussing where mathematics could
   speaker: Simon Mathias (Durham University)
   url: https://www.durham.ac.uk/staff/s-a-mathias/
   zoom: 1
-  title: ""
-  abstract: ""
+  title: "Mathematical aspects of the power-law discharge function used in rainfall-runoff modelling"
+  abstract: "Power-law relationships between catchment storage and discharge are widely used in conceptual rainfall-runoff models and provide a simple means of representing nonlinear catchment response. Despite their apparent simplicity, these relationships have a number of interesting mathematical properties and can be interpreted in terms of several familiar hydraulic systems. This seminar explores the mathematical basis and practical implications of the power-law discharge function. The relationship with the master recession curve is first considered, before examining how different power-law exponents can arise from physical arguments based on Poiseuille flow, Manning’s equation and groundwater drainage from an unconfined aquifer. The limiting behaviour of the power-law formulation as the power-law exponent tends to infinity is also explored through its relationship with the exponential storage model. Attention is then given to the solution of the resulting storage equations. Analytical solutions are presented for several special cases, alongside numerical solutions using explicit time-stepping, implicit time-stepping and MATLAB’s ode45. The stability constraints associated with explicit time-stepping are examined and used to motivate a maximum-discharge formulation that avoids numerical instability. Finally, it is shown how streamflow recessions can be isolated from observed river-flow data using a modified implementation of GR4J incorporating the PDM rainfall-runoff model. Linear regression of individual recession periods is then used to illustrate the range of power-law exponents inferred from catchment data and to consider what these values imply for the representation of nonlinear storage-discharge behaviour in rainfall-runoff models."
 
 - date: 17 Nov 2026
   speaker: David Sibley (Loughborough University)
   url: https://www.lboro.ac.uk/departments/maths/staff/david-sibley/
   zoom: 1
-  title: ""
-  abstract: ""
+  title: "Coexisting multiphase and interfacial behaviour of ouzo"
+  abstract: "Multi-component liquid mixtures can be both complex and fascinating, with some systems being amenable to simple experimentation at home, giving valuable insight into fundamental aspects of bulk and interfacial phase behaviour. One particularly interesting mixture is the popular drink ouzo, which has charmed both the general public and scientists by virtue of its ability to display spontaneous emulsification when water is added. When these two clear (and drinkable) liquids are poured into each other, a single milky-coloured liquid is formed. 
+
+In this seminar I will discuss some collaborative work over recent years finding the equilibrium phase-diagram for the stable liquid phases of ouzo via experiment and modelling and extensions for when the two liquid phases also coexist with a vapour phase (i.e., along a line of triple points) and within our model uncover the complex bulk phase behavior for this simple beverage. As a consequence, this leads to some interesting observations that also apply more widely, about visualising phase diagrams in ternary systems of this type. Our modelling relies on a relatively simple lattice density functional theory model but captures physical reality surprisingly well. We also examine the interfacial behaviour, connecting microscopic density functional theory results with macroscopic (Neumann) predictions for the shape of droplets at interfaces."
 
 - date: 24 Nov 2026
   speaker: AIMS members (University of Bath)
